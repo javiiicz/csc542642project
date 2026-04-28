@@ -1,0 +1,5 @@
+Predicted,Actual,count
+loss,loss,110
+loss,win,65
+win,loss,81
+win,win,79

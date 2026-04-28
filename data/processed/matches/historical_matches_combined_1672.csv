@@ -1,0 +1,1673 @@
+team,opponent,team_goals,opponent_goals,match_date,neutral,competition_id,round,source
+France,Mexico,4,1,1930-07-13,1,FIFA World Cup,Group stage,worldfootballR
+United States,Belgium,3,0,1930-07-13,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,France,1,0,1930-07-15,1,FIFA World Cup,Group stage,worldfootballR
+United States,Paraguay,3,0,1930-07-17,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Mexico,6,3,1930-07-19,1,FIFA World Cup,Group stage,worldfootballR
+Paraguay,Belgium,1,0,1930-07-20,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,United States,6,1,1930-07-26,1,FIFA World Cup,Semi-finals,worldfootballR
+Uruguay,Argentina,4,2,1930-07-30,1,FIFA World Cup,Final,worldfootballR
+Austria,France,3,2,1934-05-27,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,Belgium,5,2,1934-05-27,1,FIFA World Cup,Round of 16,worldfootballR
+Spain,Brazil,3,1,1934-05-27,1,FIFA World Cup,Round of 16,worldfootballR
+Sweden,Argentina,3,2,1934-05-27,1,FIFA World Cup,Round of 16,worldfootballR
+Switzerland,Netherlands,3,2,1934-05-27,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,Sweden,2,1,1934-05-31,1,FIFA World Cup,Quarter-finals,worldfootballR
+Germany,Austria,3,2,1934-06-07,1,FIFA World Cup,Third-place match,worldfootballR
+Switzerland,Germany,1,1,1938-06-04,1,FIFA World Cup,Round of 16,worldfootballR
+France,Belgium,3,1,1938-06-05,1,FIFA World Cup,Round of 16,worldfootballR
+Switzerland,Germany,4,2,1938-06-09,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,Sweden,4,2,1938-06-19,1,FIFA World Cup,Third-place match,worldfootballR
+Brazil,Mexico,4,0,1950-06-24,1,FIFA World Cup,Group stage,worldfootballR
+Spain,United States,3,1,1950-06-25,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Switzerland,2,2,1950-06-28,1,FIFA World Cup,Group stage,worldfootballR
+Sweden,Paraguay,2,2,1950-06-29,1,FIFA World Cup,Group stage,worldfootballR
+Switzerland,Mexico,2,1,1950-07-02,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Sweden,7,1,1950-07-09,1,FIFA World Cup,Final stage,worldfootballR
+Uruguay,Spain,2,2,1950-07-09,1,FIFA World Cup,Final stage,worldfootballR
+Brazil,Spain,6,1,1950-07-13,1,FIFA World Cup,Final stage,worldfootballR
+Uruguay,Sweden,3,2,1950-07-13,1,FIFA World Cup,Final stage,worldfootballR
+Sweden,Spain,3,1,1950-07-16,1,FIFA World Cup,Final stage,worldfootballR
+Uruguay,Brazil,2,1,1950-07-16,1,FIFA World Cup,Final stage,worldfootballR
+Brazil,Mexico,5,0,1954-06-16,1,FIFA World Cup,Group stage,worldfootballR
+France,Mexico,3,2,1954-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Switzerland,Austria,5,7,1954-06-26,1,FIFA World Cup,Quarter-finals,worldfootballR
+Germany,Austria,6,1,1954-06-30,1,FIFA World Cup,Semi-finals,worldfootballR
+Austria,Uruguay,3,1,1954-07-03,1,FIFA World Cup,Third-place match,worldfootballR
+Brazil,Austria,3,0,1958-06-08,1,FIFA World Cup,Group stage,worldfootballR
+France,Paraguay,7,3,1958-06-08,1,FIFA World Cup,Group stage,worldfootballR
+Sweden,Mexico,3,0,1958-06-08,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,France,5,2,1958-06-24,1,FIFA World Cup,Semi-finals,worldfootballR
+Brazil,Sweden,5,2,1958-06-29,1,FIFA World Cup,Final,worldfootballR
+Brazil,Mexico,2,0,1962-05-30,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,Colombia,2,1,1962-05-30,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Mexico,1,0,1962-06-03,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Spain,2,1,1962-06-06,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Spain,2,1,1966-07-13,1,FIFA World Cup,Group stage,worldfootballR
+France,Mexico,1,1,1966-07-13,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Switzerland,2,1,1966-07-15,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,France,2,1,1966-07-15,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Switzerland,2,0,1966-07-19,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,Brazil,3,1,1966-07-19,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,Mexico,0,0,1966-07-19,1,FIFA World Cup,Group stage,worldfootballR
+Sweden,Uruguay,1,0,1970-06-10,1,FIFA World Cup,Group stage,worldfootballR
+Mexico,Belgium,1,0,1970-06-11,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Uruguay,3,1,1970-06-17,1,FIFA World Cup,Semi-finals,worldfootballR
+Uruguay,Netherlands,0,2,1974-06-15,1,FIFA World Cup,First round,worldfootballR
+Netherlands,Sweden,0,0,1974-06-19,1,FIFA World Cup,First round,worldfootballR
+Argentina,Haiti,4,1,1974-06-23,1,FIFA World Cup,First round,worldfootballR
+Sweden,Uruguay,3,0,1974-06-23,1,FIFA World Cup,First round,worldfootballR
+Netherlands,Argentina,4,0,1974-06-26,1,FIFA World Cup,Second round,worldfootballR
+Argentina,Brazil,1,2,1974-06-30,1,FIFA World Cup,Second round,worldfootballR
+Netherlands,Brazil,2,0,1974-07-03,1,FIFA World Cup,Second round,worldfootballR
+Tunisia,Mexico,3,1,1978-06-02,1,FIFA World Cup,First round,worldfootballR
+Austria,Spain,2,1,1978-06-03,1,FIFA World Cup,First round,worldfootballR
+Sweden,Brazil,1,1,1978-06-03,1,FIFA World Cup,First round,worldfootballR
+Argentina,France,2,1,1978-06-06,1,FIFA World Cup,First round,worldfootballR
+Austria,Sweden,1,0,1978-06-07,1,FIFA World Cup,First round,worldfootballR
+Brazil,Spain,0,0,1978-06-07,1,FIFA World Cup,First round,worldfootballR
+Brazil,Austria,1,0,1978-06-11,1,FIFA World Cup,First round,worldfootballR
+Spain,Sweden,1,0,1978-06-11,1,FIFA World Cup,First round,worldfootballR
+Netherlands,Austria,5,1,1978-06-14,1,FIFA World Cup,Second round,worldfootballR
+Argentina,Brazil,0,0,1978-06-18,1,FIFA World Cup,Second round,worldfootballR
+Argentina,Netherlands,3,1,1978-06-25,1,FIFA World Cup,Final,worldfootballR
+Argentina,Belgium,0,1,1982-06-13,1,FIFA World Cup,First group stage,worldfootballR
+Algeria,Austria,0,2,1982-06-21,1,FIFA World Cup,First group stage,worldfootballR
+Brazil,New Zealand,4,0,1982-06-23,1,FIFA World Cup,First group stage,worldfootballR
+Austria,France,0,1,1982-06-28,1,FIFA World Cup,Second group stage,worldfootballR
+Argentina,Brazil,1,3,1982-07-02,1,FIFA World Cup,Second group stage,worldfootballR
+Canada,France,0,1,1986-06-01,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Brazil,0,1,1986-06-01,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,"Korea, South",3,1,1986-06-02,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Mexico,1,2,1986-06-03,1,FIFA World Cup,Group stage,worldfootballR
+Paraguay,Iraq,1,0,1986-06-04,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Algeria,1,0,1986-06-06,1,FIFA World Cup,Group stage,worldfootballR
+Mexico,Paraguay,1,1,1986-06-07,1,FIFA World Cup,Group stage,worldfootballR
+Iraq,Belgium,1,2,1986-06-08,1,FIFA World Cup,Group stage,worldfootballR
+Iraq,Mexico,0,1,1986-06-11,1,FIFA World Cup,Group stage,worldfootballR
+Paraguay,Belgium,2,2,1986-06-11,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,Morocco,1,3,1986-06-11,1,FIFA World Cup,Group stage,worldfootballR
+Algeria,Spain,0,3,1986-06-12,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Uruguay,1,0,1986-06-16,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,France,1,1,1986-06-21,1,FIFA World Cup,Quarter-finals,worldfootballR
+Spain,Belgium,1,1,1986-06-22,1,FIFA World Cup,Quarter-finals,worldfootballR
+Argentina,Belgium,2,0,1986-06-25,1,FIFA World Cup,Semi-finals,worldfootballR
+France,Belgium,4,2,1986-06-28,1,FIFA World Cup,Third-place match,worldfootballR
+Brazil,Sweden,2,1,1990-06-10,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,"Korea, South",2,0,1990-06-12,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,Egypt,1,1,1990-06-12,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,Spain,0,0,1990-06-13,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Uruguay,3,1,1990-06-17,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Spain,1,3,1990-06-17,1,FIFA World Cup,Group stage,worldfootballR
+Austria,United States,2,1,1990-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Spain,1,2,1990-06-21,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Uruguay,0,1,1990-06-21,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Argentina,0,1,1990-06-24,1,FIFA World Cup,Round of 16,worldfootballR
+Spain,"Korea, South",2,2,1994-06-17,1,FIFA World Cup,Group stage,worldfootballR
+United States,Switzerland,1,1,1994-06-18,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Morocco,1,0,1994-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Norway,Mexico,1,0,1994-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,Saudi Arabia,2,1,1994-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Spain,1,1,1994-06-21,1,FIFA World Cup,Group stage,worldfootballR
+United States,Colombia,2,1,1994-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Netherlands,1,0,1994-06-25,1,FIFA World Cup,Group stage,worldfootballR
+Saudi Arabia,Morocco,2,1,1994-06-25,1,FIFA World Cup,Group stage,worldfootballR
+Switzerland,Colombia,0,2,1994-06-26,1,FIFA World Cup,Group stage,worldfootballR
+Germany,"Korea, South",3,2,1994-06-27,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Sweden,1,1,1994-06-28,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Saudi Arabia,0,1,1994-06-29,1,FIFA World Cup,Group stage,worldfootballR
+Morocco,Netherlands,1,2,1994-06-29,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Belgium,3,2,1994-07-02,1,FIFA World Cup,Round of 16,worldfootballR
+Spain,Switzerland,3,0,1994-07-02,1,FIFA World Cup,Round of 16,worldfootballR
+Saudi Arabia,Sweden,1,3,1994-07-03,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,United States,1,0,1994-07-04,1,FIFA World Cup,Round of 16,worldfootballR
+Netherlands,Brazil,2,3,1994-07-09,1,FIFA World Cup,Quarter-finals,worldfootballR
+Sweden,Brazil,0,1,1994-07-13,1,FIFA World Cup,Semi-finals,worldfootballR
+Canada,Panama,3,1,1996-08-30,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Czech Republic,Spain,0,0,1996-10-09,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Sweden,Austria,0,1,1996-10-09,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Panama,Canada,0,0,1996-10-27,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Switzerland,Norway,0,1,1996-11-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Belgium,Netherlands,0,3,1996-12-14,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Portugal,Germany,0,0,1996-12-14,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Mexico,Canada,4,0,1997-03-02,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+United States,Canada,3,0,1997-03-16,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+United States,Mexico,2,2,1997-04-20,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Spain,Czech Republic,1,0,1997-06-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Austria,Sweden,1,0,1997-09-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Germany,Portugal,1,1,1997-09-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Netherlands,Belgium,3,1,1997-09-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Norway,Switzerland,5,0,1997-09-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Canada,Mexico,2,2,1997-10-12,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Mexico,United States,0,0,1997-11-02,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Canada,United States,0,3,1997-11-09,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Morocco,Norway,2,2,1998-06-10,1,FIFA World Cup,Group stage,worldfootballR
+France,South Africa,3,0,1998-06-12,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Mexico,1,3,1998-06-13,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,Belgium,0,0,1998-06-13,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Japan,1,0,1998-06-14,1,FIFA World Cup,Group stage,worldfootballR
+Germany,United States,2,0,1998-06-15,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Morocco,3,0,1998-06-16,1,FIFA World Cup,Group stage,worldfootballR
+France,Saudi Arabia,4,0,1998-06-18,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Paraguay,0,0,1998-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Mexico,2,2,1998-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Japan,Croatia,0,1,1998-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,"Korea, South",5,0,1998-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Colombia,Tunisia,1,0,1998-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Norway,1,2,1998-06-23,1,FIFA World Cup,Group stage,worldfootballR
+South Africa,Saudi Arabia,2,2,1998-06-24,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,"Korea, South",1,1,1998-06-25,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,Mexico,2,2,1998-06-25,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Croatia,1,0,1998-06-26,1,FIFA World Cup,Group stage,worldfootballR
+France,Paraguay,1,0,1998-06-28,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,Mexico,2,1,1998-06-29,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,Croatia,0,3,1998-07-04,1,FIFA World Cup,Quarter-finals,worldfootballR
+Netherlands,Argentina,2,1,1998-07-04,1,FIFA World Cup,Quarter-finals,worldfootballR
+Brazil,Netherlands,1,1,1998-07-07,1,FIFA World Cup,Semi-finals,worldfootballR
+France,Croatia,2,1,1998-07-08,1,FIFA World Cup,Semi-finals,worldfootballR
+Netherlands,Croatia,1,2,1998-07-11,1,FIFA World Cup,Third-place match,worldfootballR
+Brazil,France,0,3,1998-07-12,1,FIFA World Cup,Final,worldfootballR
+Colombia,Brazil,0,0,2000-03-28,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Cape Verde,Algeria,0,0,2000-04-09,1,FIFA World Cup Qualification — CAF,First round,worldfootballR
+Algeria,Cape Verde,2,0,2000-04-21,1,FIFA World Cup Qualification — CAF,First round,worldfootballR
+Brazil,Ecuador,3,2,2000-04-26,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Uruguay,1,0,2000-04-26,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Ecuador,3,1,2000-06-03,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Belgium,Sweden,2,1,2000-06-10,1,UEFA European Football Championship,Group stage,worldfootballR
+Netherlands,Czech Republic,1,0,2000-06-11,1,UEFA European Football Championship,Group stage,worldfootballR
+Spain,Norway,0,1,2000-06-13,1,UEFA European Football Championship,Group stage,worldfootballR
+Algeria,Senegal,1,1,2000-06-16,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Czech Republic,France,1,2,2000-06-16,1,UEFA European Football Championship,Group stage,worldfootballR
+Portugal,Germany,3,0,2000-06-20,1,UEFA European Football Championship,Group stage,worldfootballR
+France,Netherlands,2,3,2000-06-21,1,UEFA European Football Championship,Group stage,worldfootballR
+Spain,France,1,2,2000-06-25,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Brazil,Uruguay,1,1,2000-06-28,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+France,Portugal,2,1,2000-06-28,1,UEFA European Football Championship,Semi-finals,worldfootballR
+Colombia,Argentina,1,3,2000-06-29,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Morocco,Algeria,2,1,2000-07-09,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Senegal,Egypt,0,0,2000-07-09,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Panama,Mexico,0,1,2000-07-16,1,FIFA World Cup Qualification — CONCACAF,Semi-final round,worldfootballR
+Paraguay,Brazil,2,1,2000-07-18,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Argentina,Ecuador,2,0,2000-07-19,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Panama,Canada,0,0,2000-07-23,1,FIFA World Cup Qualification — CONCACAF,Semi-final round,worldfootballR
+Ecuador,Colombia,0,0,2000-07-25,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Argentina,3,1,2000-07-26,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Mexico,Canada,2,0,2000-08-15,1,FIFA World Cup Qualification — CONCACAF,Semi-final round,worldfootballR
+Colombia,Uruguay,1,0,2000-08-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Argentina,Paraguay,1,1,2000-08-16,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Belgium,Croatia,0,0,2000-09-02,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Mexico,Panama,7,1,2000-09-03,1,FIFA World Cup Qualification — CONCACAF,Semi-final round,worldfootballR
+Uruguay,Ecuador,4,0,2000-09-03,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Paraguay,0,2,2000-10-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Argentina,Uruguay,2,1,2000-10-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Canada,Panama,1,0,2000-10-09,1,FIFA World Cup Qualification — CONCACAF,Semi-final round,worldfootballR
+Austria,Spain,1,1,2000-10-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Netherlands,Portugal,0,2,2000-10-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Qatar,Uzbekistan,1,1,2000-10-14,1,AFC Asian Cup,Group stage,worldfootballR
+Saudi Arabia,Japan,1,4,2000-10-14,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Uzbekistan,8,1,2000-10-17,1,AFC Asian Cup,Group stage,worldfootballR
+Saudi Arabia,Qatar,0,0,2000-10-17,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Qatar,1,1,2000-10-20,1,AFC Asian Cup,Group stage,worldfootballR
+Saudi Arabia,Uzbekistan,5,0,2000-10-20,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Iraq,4,1,2000-10-24,1,AFC Asian Cup,Quarter-finals,worldfootballR
+"Korea, South",Saudi Arabia,1,2,2000-10-26,1,AFC Asian Cup,Semi-finals,worldfootballR
+Saudi Arabia,Japan,0,1,2000-10-29,1,AFC Asian Cup,Final,worldfootballR
+Canada,Mexico,0,0,2000-11-15,1,FIFA World Cup Qualification — CONCACAF,Semi-final round,worldfootballR
+Brazil,Colombia,1,0,2000-11-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Egypt,Morocco,0,0,2001-01-28,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Morocco,Senegal,0,0,2001-02-24,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Tunisia,DR Congo,6,0,2001-02-25,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+United States,Mexico,2,0,2001-02-28,1,FIFA World Cup Qualification — CONCACAF,Final round,worldfootballR
+Egypt,Algeria,5,2,2001-03-11,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Ecuador,Brazil,1,0,2001-03-28,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Paraguay,0,1,2001-03-28,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Portugal,Netherlands,2,2,2001-03-28,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Senegal,Algeria,3,0,2001-04-21,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Ecuador,Paraguay,2,1,2001-04-24,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uzbekistan,Jordan,2,2,2001-04-27,1,FIFA World Cup Qualification — AFC,First round,worldfootballR
+Algeria,Morocco,1,2,2001-05-04,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Egypt,Senegal,1,0,2001-05-06,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Jordan,Uzbekistan,1,1,2001-05-07,1,FIFA World Cup Qualification — AFC,First round,worldfootballR
+Argentina,Colombia,3,0,2001-06-03,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Morocco,Egypt,1,0,2001-06-30,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Mexico,United States,1,0,2001-07-01,1,FIFA World Cup Qualification — CONCACAF,Final round,worldfootballR
+Uruguay,Brazil,1,0,2001-07-01,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Senegal,Morocco,1,0,2001-07-14,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+DR Congo,Tunisia,0,3,2001-07-15,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Algeria,Egypt,1,1,2001-07-21,1,FIFA World Cup Qualification — CAF,Final round,worldfootballR
+Brazil,Paraguay,2,0,2001-08-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Argentina,0,2,2001-08-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uzbekistan,Qatar,2,1,2001-08-26,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Saudi Arabia,Iraq,1,0,2001-08-31,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Spain,Austria,4,0,2001-09-01,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Argentina,Brazil,2,1,2001-09-04,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Ecuador,0,0,2001-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Qatar,Uzbekistan,2,2,2001-09-28,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Iraq,Saudi Arabia,1,2,2001-10-05,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Croatia,Belgium,1,0,2001-10-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Paraguay,Argentina,2,2,2001-10-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Colombia,1,1,2001-10-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Uruguay,1,1,2001-11-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Belgium,Czech Republic,1,0,2001-11-10,1,FIFA World Cup Qualification — UEFA,Second round,worldfootballR
+Paraguay,Colombia,0,4,2001-11-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Argentina,1,1,2001-11-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Czech Republic,Belgium,0,1,2001-11-14,1,FIFA World Cup Qualification — UEFA,Second round,worldfootballR
+France,Senegal,0,1,2002-05-31,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Saudi Arabia,8,0,2002-06-01,1,FIFA World Cup,Group stage,worldfootballR
+Paraguay,South Africa,2,2,2002-06-02,1,FIFA World Cup,Group stage,worldfootballR
+Croatia,Mexico,0,1,2002-06-03,1,FIFA World Cup,Group stage,worldfootballR
+Japan,Belgium,2,2,2002-06-04,1,FIFA World Cup,Group stage,worldfootballR
+United States,Portugal,3,2,2002-06-05,1,FIFA World Cup,Group stage,worldfootballR
+France,Uruguay,0,0,2002-06-06,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Paraguay,3,1,2002-06-07,1,FIFA World Cup,Group stage,worldfootballR
+Mexico,Ecuador,2,1,2002-06-09,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",United States,1,1,2002-06-10,1,FIFA World Cup,Group stage,worldfootballR
+Tunisia,Belgium,1,1,2002-06-10,1,FIFA World Cup,Group stage,worldfootballR
+Senegal,Uruguay,3,3,2002-06-11,1,FIFA World Cup,Group stage,worldfootballR
+South Africa,Spain,2,3,2002-06-12,1,FIFA World Cup,Group stage,worldfootballR
+Sweden,Argentina,1,1,2002-06-12,1,FIFA World Cup,Group stage,worldfootballR
+Ecuador,Croatia,1,0,2002-06-13,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,"Korea, South",0,1,2002-06-14,1,FIFA World Cup,Group stage,worldfootballR
+Tunisia,Japan,0,2,2002-06-14,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Paraguay,1,0,2002-06-15,1,FIFA World Cup,Round of 16,worldfootballR
+Sweden,Senegal,1,2,2002-06-16,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,Belgium,2,0,2002-06-17,1,FIFA World Cup,Round of 16,worldfootballR
+Mexico,United States,0,2,2002-06-17,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,United States,1,0,2002-06-21,1,FIFA World Cup,Quarter-finals,worldfootballR
+Spain,"Korea, South",0,0,2002-06-22,1,FIFA World Cup,Quarter-finals,worldfootballR
+Germany,"Korea, South",1,0,2002-06-25,1,FIFA World Cup,Semi-finals,worldfootballR
+Germany,Brazil,0,2,2002-06-30,1,FIFA World Cup,Final,worldfootballR
+Colombia,Brazil,1,2,2003-09-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Ecuador,1,0,2003-09-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Uruguay,4,1,2003-09-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Ecuador,2,1,2003-11-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Uruguay,3,3,2003-11-19,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Argentina,1,1,2003-11-19,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uzbekistan,Iraq,1,1,2004-02-18,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Argentina,Ecuador,1,0,2004-03-30,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Brazil,0,0,2004-03-30,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Jordan,Qatar,1,0,2004-03-31,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Brazil,Argentina,3,1,2004-06-02,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Colombia,2,1,2004-06-02,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+South Africa,Cape Verde,2,1,2004-06-05,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Argentina,Paraguay,0,0,2004-06-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Uruguay,5,0,2004-06-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Switzerland,Croatia,0,0,2004-06-13,1,UEFA European Football Championship,Group stage,worldfootballR
+Germany,Netherlands,1,1,2004-06-15,1,UEFA European Football Championship,Group stage,worldfootballR
+Croatia,France,2,2,2004-06-17,1,UEFA European Football Championship,Group stage,worldfootballR
+Netherlands,Czech Republic,2,3,2004-06-19,1,UEFA European Football Championship,Group stage,worldfootballR
+Ghana,South Africa,3,0,2004-06-20,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Spain,Portugal,0,1,2004-06-20,1,UEFA European Football Championship,Group stage,worldfootballR
+Switzerland,France,1,3,2004-06-21,1,UEFA European Football Championship,Group stage,worldfootballR
+Germany,Czech Republic,1,2,2004-06-23,1,UEFA European Football Championship,Group stage,worldfootballR
+Sweden,Netherlands,0,0,2004-06-26,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Portugal,Netherlands,2,1,2004-06-30,1,UEFA European Football Championship,Semi-finals,worldfootballR
+Cape Verde,DR Congo,1,1,2004-07-03,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Iraq,Uzbekistan,0,1,2004-07-18,1,AFC Asian Cup,Group stage,worldfootballR
+"Korea, South",Jordan,0,0,2004-07-19,1,AFC Asian Cup,Group stage,worldfootballR
+Uzbekistan,Saudi Arabia,1,0,2004-07-22,1,AFC Asian Cup,Group stage,worldfootballR
+Saudi Arabia,Iraq,1,2,2004-07-26,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Jordan,1,1,2004-07-31,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Morocco,Tunisia,1,1,2004-09-04,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+DR Congo,South Africa,1,0,2004-09-05,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Ghana,Cape Verde,2,0,2004-09-05,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Uruguay,Ecuador,1,0,2004-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Panama,United States,1,1,2004-09-08,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Netherlands,Czech Republic,2,0,2004-09-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Sweden,Croatia,0,1,2004-09-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Argentina,Uruguay,4,2,2004-10-09,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Paraguay,1,1,2004-10-09,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Spain,Belgium,2,0,2004-10-09,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Ghana,DR Congo,0,0,2004-10-10,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Iraq,Uzbekistan,1,2,2004-10-13,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+United States,Panama,6,0,2004-10-13,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Brazil,Colombia,0,0,2004-10-13,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Qatar,Jordan,2,0,2004-11-17,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Ecuador,Brazil,1,0,2004-11-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Paraguay,1,0,2004-11-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uzbekistan,Saudi Arabia,1,1,2005-02-09,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Saudi Arabia,"Korea, South",2,0,2005-03-25,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+France,Switzerland,0,0,2005-03-26,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+DR Congo,Ghana,1,1,2005-03-27,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Mexico,United States,2,1,2005-03-27,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Ecuador,Paraguay,5,2,2005-03-27,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+"Korea, South",Uzbekistan,2,1,2005-03-30,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Panama,Mexico,1,1,2005-03-30,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Argentina,Colombia,1,0,2005-03-30,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Brazil,1,1,2005-03-30,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uzbekistan,"Korea, South",1,1,2005-06-03,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Cape Verde,South Africa,1,2,2005-06-04,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Ecuador,Argentina,2,0,2005-06-04,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Paraguay,4,1,2005-06-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Saudi Arabia,Uzbekistan,3,0,2005-06-08,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Panama,United States,0,3,2005-06-08,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Argentina,Brazil,3,1,2005-06-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Ecuador,3,0,2005-06-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+South Africa,Ghana,0,2,2005-06-18,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+"Korea, South",Saudi Arabia,0,1,2005-08-17,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+United States,Mexico,2,0,2005-09-03,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Paraguay,Argentina,1,0,2005-09-03,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+DR Congo,Cape Verde,2,1,2005-09-04,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Uruguay,Colombia,3,2,2005-09-04,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Mexico,Panama,5,0,2005-09-07,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Cape Verde,Ghana,0,4,2005-10-08,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+South Africa,DR Congo,2,2,2005-10-08,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Tunisia,Morocco,2,2,2005-10-08,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Ecuador,Uruguay,0,0,2005-10-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Belgium,Spain,0,2,2005-10-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Croatia,Sweden,1,0,2005-10-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Czech Republic,Netherlands,0,2,2005-10-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Switzerland,France,1,1,2005-10-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+United States,Panama,2,0,2005-10-12,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Paraguay,Colombia,0,1,2005-10-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Argentina,1,0,2005-10-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Norway,Czech Republic,0,1,2005-11-12,1,FIFA World Cup Qualification — UEFA,Second round,worldfootballR
+Czech Republic,Norway,1,0,2005-11-16,1,FIFA World Cup Qualification — UEFA,Second round,worldfootballR
+Australia,Japan,3,1,2006-06-12,1,FIFA World Cup,Group stage,worldfootballR
+United States,Czech Republic,0,3,2006-06-12,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Croatia,1,0,2006-06-13,1,FIFA World Cup,Group stage,worldfootballR
+France,Switzerland,0,0,2006-06-13,1,FIFA World Cup,Group stage,worldfootballR
+Tunisia,Saudi Arabia,2,2,2006-06-14,1,FIFA World Cup,Group stage,worldfootballR
+Sweden,Paraguay,1,0,2006-06-15,1,FIFA World Cup,Group stage,worldfootballR
+Czech Republic,Ghana,0,2,2006-06-17,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Australia,2,0,2006-06-18,1,FIFA World Cup,Group stage,worldfootballR
+France,"Korea, South",1,1,2006-06-18,1,FIFA World Cup,Group stage,worldfootballR
+Japan,Croatia,0,0,2006-06-18,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Tunisia,3,1,2006-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Ecuador,Germany,0,3,2006-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,Argentina,0,0,2006-06-21,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,Mexico,2,1,2006-06-21,1,FIFA World Cup,Group stage,worldfootballR
+Croatia,Australia,2,2,2006-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Ghana,United States,2,1,2006-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Japan,Brazil,1,4,2006-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Saudi Arabia,Spain,0,1,2006-06-23,1,FIFA World Cup,Group stage,worldfootballR
+Switzerland,"Korea, South",2,0,2006-06-23,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Mexico,2,1,2006-06-24,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,Sweden,2,0,2006-06-24,1,FIFA World Cup,Round of 16,worldfootballR
+Portugal,Netherlands,1,0,2006-06-25,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,Ghana,3,0,2006-06-27,1,FIFA World Cup,Round of 16,worldfootballR
+Spain,France,1,3,2006-06-27,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,Argentina,1,1,2006-06-30,1,FIFA World Cup,Quarter-finals,worldfootballR
+Brazil,France,0,1,2006-07-01,1,FIFA World Cup,Quarter-finals,worldfootballR
+Portugal,France,0,1,2006-07-05,1,FIFA World Cup,Semi-finals,worldfootballR
+Germany,Portugal,3,1,2006-07-08,1,FIFA World Cup,Third-place match,worldfootballR
+Sweden,Spain,2,0,2006-10-07,1,UEFA European Football Championship Qualifying,NA,worldfootballR
+Czech Republic,Germany,1,2,2007-03-24,1,UEFA European Football Championship Qualifying,NA,worldfootballR
+Portugal,Belgium,4,0,2007-03-24,1,UEFA European Football Championship Qualifying,NA,worldfootballR
+Belgium,Portugal,1,2,2007-06-02,1,UEFA European Football Championship Qualifying,NA,worldfootballR
+Japan,Qatar,1,1,2007-07-09,1,AFC Asian Cup,Group stage,worldfootballR
+"Korea, South",Saudi Arabia,1,1,2007-07-11,1,AFC Asian Cup,Group stage,worldfootballR
+Iraq,Australia,3,1,2007-07-13,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Australia,1,1,2007-07-21,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Saudi Arabia,Uzbekistan,2,1,2007-07-22,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Iraq,"Korea, South",0,0,2007-07-25,1,AFC Asian Cup,Semi-finals,worldfootballR
+Japan,Saudi Arabia,2,3,2007-07-25,1,AFC Asian Cup,Semi-finals,worldfootballR
+"Korea, South",Japan,0,0,2007-07-28,1,AFC Asian Cup,Third-place match,worldfootballR
+Iraq,Saudi Arabia,1,0,2007-07-29,1,AFC Asian Cup,Final,worldfootballR
+Colombia,Brazil,0,0,2007-10-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Ecuador,5,0,2007-10-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Uruguay,1,0,2007-10-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Germany,Czech Republic,0,3,2007-10-17,1,UEFA European Football Championship Qualifying,NA,worldfootballR
+Paraguay,Ecuador,5,1,2007-11-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Spain,Sweden,3,0,2007-11-17,1,UEFA European Football Championship Qualifying,NA,worldfootballR
+Colombia,Argentina,2,1,2007-11-20,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Uruguay,2,1,2007-11-21,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Australia,Qatar,3,0,2008-02-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Qatar,Iraq,2,0,2008-03-26,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Uzbekistan,Saudi Arabia,3,0,2008-03-26,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+"Korea, South",Jordan,2,2,2008-05-31,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Senegal,Algeria,1,0,2008-05-31,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Australia,Iraq,1,0,2008-06-01,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Egypt,DR Congo,2,1,2008-06-01,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Iraq,Australia,1,0,2008-06-07,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Jordan,"Korea, South",0,1,2008-06-07,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Switzerland,Czech Republic,0,1,2008-06-07,1,UEFA European Football Championship,Group stage,worldfootballR
+Austria,Croatia,0,1,2008-06-08,1,UEFA European Football Championship,Group stage,worldfootballR
+Czech Republic,Portugal,1,3,2008-06-11,1,UEFA European Football Championship,Group stage,worldfootballR
+Croatia,Germany,2,1,2008-06-12,1,UEFA European Football Championship,Group stage,worldfootballR
+Netherlands,France,4,1,2008-06-13,1,UEFA European Football Championship,Group stage,worldfootballR
+Qatar,Australia,1,3,2008-06-14,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Sweden,Spain,1,2,2008-06-14,1,UEFA European Football Championship,Group stage,worldfootballR
+Haiti,Curacao,0,0,2008-06-15,1,FIFA World Cup Qualification — CONCACAF,Second round,worldfootballR
+Argentina,Ecuador,1,1,2008-06-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Brazil,2,0,2008-06-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Switzerland,Portugal,2,0,2008-06-15,1,UEFA European Football Championship,Group stage,worldfootballR
+Austria,Germany,0,1,2008-06-16,1,UEFA European Football Championship,Group stage,worldfootballR
+Brazil,Argentina,0,0,2008-06-18,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Colombia,0,0,2008-06-18,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Portugal,Germany,2,3,2008-06-19,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Iraq,Qatar,0,1,2008-06-22,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Saudi Arabia,Uzbekistan,4,0,2008-06-22,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Curacao,Haiti,0,1,2008-06-22,1,FIFA World Cup Qualification — CONCACAF,Second round,worldfootballR
+Germany,Spain,0,1,2008-06-29,1,UEFA European Football Championship,Final,worldfootballR
+Algeria,Senegal,3,2,2008-09-05,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Qatar,Uzbekistan,3,0,2008-09-06,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Argentina,Paraguay,1,1,2008-09-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Uruguay,0,1,2008-09-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Austria,France,3,1,2008-09-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+DR Congo,Egypt,0,1,2008-09-07,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Uzbekistan,Australia,0,1,2008-09-10,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Mexico,Canada,2,1,2008-09-10,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Uruguay,Ecuador,0,0,2008-09-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Argentina,Uruguay,2,1,2008-10-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Paraguay,0,1,2008-10-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Sweden,Portugal,0,0,2008-10-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Australia,Qatar,4,0,2008-10-15,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Japan,Uzbekistan,1,1,2008-10-15,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Canada,Mexico,2,2,2008-10-15,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Brazil,Colombia,0,0,2008-10-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Belgium,Spain,1,2,2008-10-15,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Norway,Netherlands,0,1,2008-10-15,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Qatar,Japan,0,3,2008-11-19,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Saudi Arabia,"Korea, South",0,2,2008-11-19,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Japan,Australia,0,0,2009-02-11,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+United States,Mexico,2,0,2009-02-11,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Uzbekistan,Qatar,4,0,2009-03-28,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Uruguay,Paraguay,2,0,2009-03-28,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Portugal,Sweden,0,0,2009-03-28,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Ecuador,Brazil,1,1,2009-03-29,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Australia,Uzbekistan,2,0,2009-04-01,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Ecuador,Paraguay,1,1,2009-04-01,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Qatar,Australia,0,0,2009-06-06,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Uzbekistan,Japan,0,1,2009-06-06,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Argentina,Colombia,1,0,2009-06-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Brazil,0,4,2009-06-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Algeria,Egypt,3,1,2009-06-07,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Japan,Qatar,1,1,2009-06-10,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+"Korea, South",Saudi Arabia,0,0,2009-06-10,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Brazil,Paraguay,2,1,2009-06-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Argentina,2,0,2009-06-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Netherlands,Norway,2,0,2009-06-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Australia,Japan,2,1,2009-06-17,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Mexico,United States,2,1,2009-08-12,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Argentina,Brazil,1,3,2009-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Ecuador,2,0,2009-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Spain,Belgium,5,0,2009-09-05,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Paraguay,Argentina,1,0,2009-09-09,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Colombia,3,1,2009-09-09,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Uruguay,1,2,2009-10-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Colombia,0,2,2009-10-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Argentina,0,1,2009-10-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+France,Austria,3,1,2009-10-14,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Egypt,Algeria,2,0,2009-11-14,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Algeria,Egypt,1,0,2009-11-18,1,FIFA World Cup Qualification — CAF,Tiebreaking play-off,worldfootballR
+Algeria,Egypt,0,4,2010-01-28,1,Africa Cup of Nations,Semi-finals,worldfootballR
+Ghana,Egypt,0,1,2010-01-31,1,Africa Cup of Nations,Final,worldfootballR
+South Africa,Mexico,1,1,2010-06-11,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,France,0,0,2010-06-11,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Australia,4,0,2010-06-13,1,FIFA World Cup,Group stage,worldfootballR
+South Africa,Uruguay,0,3,2010-06-16,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Switzerland,0,1,2010-06-16,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,"Korea, South",4,1,2010-06-17,1,FIFA World Cup,Group stage,worldfootballR
+France,Mexico,0,2,2010-06-17,1,FIFA World Cup,Group stage,worldfootballR
+Ghana,Australia,1,1,2010-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,Japan,1,0,2010-06-19,1,FIFA World Cup,Group stage,worldfootballR
+France,South Africa,1,2,2010-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Mexico,Uruguay,0,1,2010-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Ghana,Germany,0,1,2010-06-23,1,FIFA World Cup,Group stage,worldfootballR
+United States,Algeria,1,0,2010-06-23,1,FIFA World Cup,Group stage,worldfootballR
+Paraguay,New Zealand,0,0,2010-06-24,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,Brazil,0,0,2010-06-25,1,FIFA World Cup,Group stage,worldfootballR
+United States,Ghana,1,2,2010-06-26,1,FIFA World Cup,Round of 16,worldfootballR
+Uruguay,"Korea, South",2,1,2010-06-26,1,FIFA World Cup,Round of 16,worldfootballR
+Argentina,Mexico,3,1,2010-06-27,1,FIFA World Cup,Round of 16,worldfootballR
+Paraguay,Japan,0,0,2010-06-29,1,FIFA World Cup,Round of 16,worldfootballR
+Spain,Portugal,1,0,2010-06-29,1,FIFA World Cup,Round of 16,worldfootballR
+Netherlands,Brazil,2,1,2010-07-02,1,FIFA World Cup,Quarter-finals,worldfootballR
+Uruguay,Ghana,1,1,2010-07-02,1,FIFA World Cup,Quarter-finals,worldfootballR
+Argentina,Germany,0,4,2010-07-03,1,FIFA World Cup,Quarter-finals,worldfootballR
+Paraguay,Spain,0,1,2010-07-03,1,FIFA World Cup,Quarter-finals,worldfootballR
+Uruguay,Netherlands,2,3,2010-07-06,1,FIFA World Cup,Semi-finals,worldfootballR
+Germany,Spain,0,1,2010-07-07,1,FIFA World Cup,Semi-finals,worldfootballR
+Uruguay,Germany,2,3,2010-07-10,1,FIFA World Cup,Third-place match,worldfootballR
+Netherlands,Spain,0,1,2010-07-11,1,FIFA World Cup,Final,worldfootballR
+Belgium,Germany,0,1,2010-09-03,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Norway,Portugal,1,0,2010-09-07,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Belgium,Austria,4,4,2010-10-12,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Netherlands,Sweden,4,1,2010-10-12,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Qatar,Uzbekistan,0,2,2011-01-07,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Jordan,1,1,2011-01-09,1,AFC Asian Cup,Group stage,worldfootballR
+Jordan,Saudi Arabia,1,0,2011-01-13,1,AFC Asian Cup,Group stage,worldfootballR
+Australia,"Korea, South",1,1,2011-01-14,1,AFC Asian Cup,Group stage,worldfootballR
+Saudi Arabia,Japan,0,5,2011-01-17,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Qatar,3,2,2011-01-21,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Uzbekistan,Jordan,2,1,2011-01-21,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Australia,Iraq,1,0,2011-01-22,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Japan,"Korea, South",2,2,2011-01-25,1,AFC Asian Cup,Semi-finals,worldfootballR
+Uzbekistan,Australia,0,6,2011-01-25,1,AFC Asian Cup,Semi-finals,worldfootballR
+Uzbekistan,"Korea, South",2,3,2011-01-28,1,AFC Asian Cup,Third-place match,worldfootballR
+Australia,Japan,0,1,2011-01-29,1,AFC Asian Cup,Final,worldfootballR
+Austria,Belgium,0,2,2011-03-25,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Spain,Czech Republic,2,1,2011-03-25,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Austria,Germany,1,2,2011-06-03,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Portugal,Norway,1,0,2011-06-04,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Iraq,Jordan,0,2,2011-09-02,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Germany,Austria,6,2,2011-09-02,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Saudi Arabia,Australia,1,3,2011-09-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Uzbekistan,Japan,1,1,2011-09-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Curacao,Haiti,2,4,2011-09-06,1,FIFA World Cup Qualification — CONCACAF,Second round,worldfootballR
+Czech Republic,Spain,0,2,2011-10-07,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Haiti,Curacao,2,2,2011-10-11,1,FIFA World Cup Qualification — CONCACAF,Second round,worldfootballR
+Paraguay,Uruguay,1,1,2011-10-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Germany,Belgium,3,1,2011-10-11,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Sweden,Netherlands,3,2,2011-10-11,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Paraguay,Ecuador,2,1,2011-11-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Jordan,Iraq,1,3,2011-11-15,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Colombia,Argentina,1,2,2011-11-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Morocco,Tunisia,1,2,2012-01-23,1,Africa Cup of Nations,Group stage,worldfootballR
+Ghana,Tunisia,2,1,2012-02-05,1,Africa Cup of Nations,Quarter-finals,worldfootballR
+Australia,Saudi Arabia,4,2,2012-02-29,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Japan,Uzbekistan,0,1,2012-02-29,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Argentina,Ecuador,4,0,2012-06-02,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Jordan,Iraq,1,1,2012-06-03,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Japan,Jordan,6,0,2012-06-08,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Qatar,"Korea, South",1,4,2012-06-08,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Cape Verde,Tunisia,1,2,2012-06-09,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Germany,Portugal,1,0,2012-06-09,1,UEFA European Football Championship,Group stage,worldfootballR
+Ecuador,Colombia,1,0,2012-06-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Australia,Japan,1,1,2012-06-12,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Netherlands,Germany,1,2,2012-06-13,1,UEFA European Football Championship,Group stage,worldfootballR
+Portugal,Netherlands,2,1,2012-06-17,1,UEFA European Football Championship,Group stage,worldfootballR
+Croatia,Spain,0,1,2012-06-18,1,UEFA European Football Championship,Group stage,worldfootballR
+Sweden,France,2,0,2012-06-19,1,UEFA European Football Championship,Group stage,worldfootballR
+Czech Republic,Portugal,0,1,2012-06-21,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Spain,France,2,0,2012-06-23,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Portugal,Spain,0,0,2012-06-27,1,UEFA European Football Championship,Semi-finals,worldfootballR
+Canada,Panama,1,0,2012-09-07,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Argentina,Paraguay,3,1,2012-09-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Uruguay,4,0,2012-09-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Japan,Iraq,1,0,2012-09-11,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Jordan,Australia,2,1,2012-09-11,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Uzbekistan,"Korea, South",2,2,2012-09-11,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Panama,Canada,2,0,2012-09-11,1,FIFA World Cup Qualification — CONCACAF,Third round,worldfootballR
+Uruguay,Ecuador,1,1,2012-09-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Austria,Germany,1,2,2012-09-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Belgium,Croatia,1,1,2012-09-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Argentina,Uruguay,3,0,2012-10-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Paraguay,2,0,2012-10-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Switzerland,Norway,1,1,2012-10-12,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Iraq,Australia,1,2,2012-10-16,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Qatar,Uzbekistan,0,1,2012-10-16,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Germany,Sweden,4,4,2012-10-16,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Spain,France,1,1,2012-10-16,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Iraq,Jordan,1,0,2012-11-14,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+South Africa,Cape Verde,0,0,2013-01-19,1,Africa Cup of Nations,Group stage,worldfootballR
+Ghana,DR Congo,2,2,2013-01-20,1,Africa Cup of Nations,Group stage,worldfootballR
+Tunisia,Algeria,1,0,2013-01-22,1,Africa Cup of Nations,Group stage,worldfootballR
+Morocco,Cape Verde,1,1,2013-01-23,1,Africa Cup of Nations,Group stage,worldfootballR
+Morocco,South Africa,2,2,2013-01-27,1,Africa Cup of Nations,Group stage,worldfootballR
+Ghana,Cape Verde,2,0,2013-02-02,1,Africa Cup of Nations,Quarter-finals,worldfootballR
+Uruguay,Paraguay,1,1,2013-03-22,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Jordan,Japan,2,1,2013-03-26,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+"Korea, South",Qatar,2,1,2013-03-26,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Mexico,United States,0,0,2013-03-26,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Ecuador,Paraguay,4,1,2013-03-26,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+France,Spain,0,1,2013-03-26,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Japan,Australia,1,1,2013-06-04,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Panama,Mexico,0,0,2013-06-07,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Argentina,Colombia,0,0,2013-06-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Austria,Sweden,2,1,2013-06-07,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Australia,Jordan,4,0,2013-06-11,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Iraq,Japan,0,1,2013-06-11,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+"Korea, South",Uzbekistan,1,0,2013-06-11,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+United States,Panama,2,0,2013-06-11,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Ecuador,Argentina,1,1,2013-06-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Australia,Iraq,1,0,2013-06-18,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Uzbekistan,Qatar,5,1,2013-06-18,1,FIFA World Cup Qualification — AFC,Fourth round,worldfootballR
+Jordan,Uzbekistan,1,1,2013-09-06,1,FIFA World Cup Qualification — AFC,Play-off round,worldfootballR
+Colombia,Ecuador,1,0,2013-09-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Germany,Austria,3,0,2013-09-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Tunisia,Cape Verde,3,0,2013-09-07,1,FIFA World Cup Qualification — CAF,Second round,worldfootballR
+Uzbekistan,Jordan,1,1,2013-09-10,1,FIFA World Cup Qualification — AFC,Play-off round,worldfootballR
+United States,Mexico,2,0,2013-09-10,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Paraguay,Argentina,2,5,2013-09-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Colombia,2,0,2013-09-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Norway,Switzerland,0,2,2013-09-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Mexico,Panama,2,1,2013-10-11,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Ecuador,Uruguay,1,0,2013-10-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Croatia,Belgium,1,2,2013-10-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Sweden,Austria,2,1,2013-10-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Ghana,Egypt,6,1,2013-10-15,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Panama,United States,2,3,2013-10-15,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Paraguay,Colombia,1,2,2013-10-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Argentina,3,2,2013-10-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Sweden,Germany,3,5,2013-10-15,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Portugal,Sweden,1,0,2013-11-15,1,FIFA World Cup Qualification — UEFA,Second round,worldfootballR
+Egypt,Ghana,2,1,2013-11-19,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Sweden,Portugal,2,3,2013-11-19,1,FIFA World Cup Qualification — UEFA,Second round,worldfootballR
+Mexico,"Korea, South",4,0,2014-01-29,1,International Friendlies (M),NA,worldfootballR
+United States,"Korea, South",2,0,2014-02-01,1,International Friendlies (M),NA,worldfootballR
+Australia,Ecuador,3,4,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+Austria,Uruguay,1,1,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+Colombia,Tunisia,1,1,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+Czech Republic,Norway,2,2,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+France,Netherlands,2,0,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+Japan,New Zealand,4,2,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+South Africa,Brazil,0,5,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Croatia,2,2,2014-03-05,1,International Friendlies (M),NA,worldfootballR
+United States,Mexico,2,2,2014-04-02,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Ecuador,1,1,2014-05-17,1,International Friendlies (M),NA,worldfootballR
+Australia,South Africa,1,1,2014-05-26,1,International Friendlies (M),NA,worldfootballR
+France,Norway,4,0,2014-05-27,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Tunisia,0,1,2014-05-28,1,International Friendlies (M),NA,worldfootballR
+New Zealand,South Africa,0,0,2014-05-30,1,International Friendlies (M),NA,worldfootballR
+Colombia,Senegal,2,2,2014-05-31,1,International Friendlies (M),NA,worldfootballR
+Mexico,Ecuador,3,1,2014-05-31,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Ghana,1,0,2014-05-31,1,International Friendlies (M),NA,worldfootballR
+France,Paraguay,1,1,2014-06-01,1,International Friendlies (M),NA,worldfootballR
+Sweden,Belgium,0,2,2014-06-01,1,International Friendlies (M),NA,worldfootballR
+Brazil,Panama,4,0,2014-06-03,1,International Friendlies (M),NA,worldfootballR
+Czech Republic,Austria,1,2,2014-06-03,1,International Friendlies (M),NA,worldfootballR
+Croatia,Australia,1,0,2014-06-06,1,International Friendlies (M),NA,worldfootballR
+Belgium,Tunisia,1,0,2014-06-07,1,International Friendlies (M),NA,worldfootballR
+Ghana,"Korea, South",4,0,2014-06-09,1,International Friendlies (M),NA,worldfootballR
+Brazil,Croatia,3,1,2014-06-12,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Netherlands,1,5,2014-06-13,1,FIFA World Cup,Group stage,worldfootballR
+Switzerland,Ecuador,2,1,2014-06-15,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Portugal,4,0,2014-06-16,1,FIFA World Cup,Group stage,worldfootballR
+Ghana,United States,1,2,2014-06-16,1,FIFA World Cup,Group stage,worldfootballR
+Belgium,Algeria,2,1,2014-06-17,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Mexico,0,0,2014-06-17,1,FIFA World Cup,Group stage,worldfootballR
+Australia,Netherlands,2,3,2014-06-18,1,FIFA World Cup,Group stage,worldfootballR
+Switzerland,France,2,5,2014-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Ghana,2,2,2014-06-21,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Algeria,2,4,2014-06-22,1,FIFA World Cup,Group stage,worldfootballR
+United States,Portugal,2,2,2014-06-22,1,FIFA World Cup,Group stage,worldfootballR
+Australia,Spain,0,3,2014-06-23,1,FIFA World Cup,Group stage,worldfootballR
+Croatia,Mexico,1,3,2014-06-23,1,FIFA World Cup,Group stage,worldfootballR
+Japan,Colombia,1,4,2014-06-24,1,FIFA World Cup,Group stage,worldfootballR
+Ecuador,France,0,0,2014-06-25,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Belgium,0,1,2014-06-26,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,Ghana,2,1,2014-06-26,1,FIFA World Cup,Group stage,worldfootballR
+United States,Germany,0,1,2014-06-26,1,FIFA World Cup,Group stage,worldfootballR
+Colombia,Uruguay,2,0,2014-06-28,1,FIFA World Cup,Round of 16,worldfootballR
+Netherlands,Mexico,2,1,2014-06-29,1,FIFA World Cup,Round of 16,worldfootballR
+Germany,Algeria,2,1,2014-06-30,1,FIFA World Cup,Round of 16,worldfootballR
+Argentina,Switzerland,1,0,2014-07-01,1,FIFA World Cup,Round of 16,worldfootballR
+Belgium,United States,2,1,2014-07-01,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,Colombia,2,1,2014-07-04,1,FIFA World Cup,Quarter-finals,worldfootballR
+France,Germany,0,1,2014-07-04,1,FIFA World Cup,Quarter-finals,worldfootballR
+Argentina,Belgium,1,0,2014-07-05,1,FIFA World Cup,Quarter-finals,worldfootballR
+Brazil,Germany,1,7,2014-07-08,1,FIFA World Cup,Semi-finals,worldfootballR
+Netherlands,Argentina,0,0,2014-07-09,1,FIFA World Cup,Semi-finals,worldfootballR
+Brazil,Netherlands,0,3,2014-07-12,1,FIFA World Cup,Third-place match,worldfootballR
+Germany,Argentina,1,0,2014-07-13,1,FIFA World Cup,Final,worldfootballR
+Czech Republic,United States,0,1,2014-09-03,1,International Friendlies (M),NA,worldfootballR
+Germany,Argentina,2,4,2014-09-03,1,International Friendlies (M),NA,worldfootballR
+Morocco,Qatar,0,0,2014-09-03,1,International Friendlies (M),NA,worldfootballR
+Belgium,Australia,2,0,2014-09-04,1,International Friendlies (M),NA,worldfootballR
+France,Spain,1,0,2014-09-04,1,International Friendlies (M),NA,worldfootballR
+Uzbekistan,Jordan,2,0,2014-09-04,1,International Friendlies (M),NA,worldfootballR
+Brazil,Colombia,1,0,2014-09-05,1,International Friendlies (M),NA,worldfootballR
+Japan,Uruguay,0,2,2014-09-05,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Uruguay,0,1,2014-09-08,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Australia,2,3,2014-09-08,1,International Friendlies (M),NA,worldfootballR
+Uzbekistan,New Zealand,3,1,2014-09-08,1,International Friendlies (M),NA,worldfootballR
+Austria,Sweden,1,1,2014-09-08,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Brazil,Ecuador,1,0,2014-09-09,1,International Friendlies (M),NA,worldfootballR
+Czech Republic,Netherlands,2,1,2014-09-09,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Qatar,Uzbekistan,3,0,2014-10-06,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Paraguay,2,0,2014-10-10,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Uruguay,1,1,2014-10-10,1,International Friendlies (M),NA,worldfootballR
+United States,Ecuador,1,1,2014-10-10,1,International Friendlies (M),NA,worldfootballR
+France,Portugal,2,1,2014-10-11,1,International Friendlies (M),NA,worldfootballR
+Mexico,Panama,1,0,2014-10-12,1,International Friendlies (M),NA,worldfootballR
+Colombia,Canada,1,0,2014-10-14,1,International Friendlies (M),NA,worldfootballR
+Japan,Brazil,0,4,2014-10-14,1,International Friendlies (M),NA,worldfootballR
+Qatar,Australia,1,0,2014-10-14,1,International Friendlies (M),NA,worldfootballR
+Argentina,Croatia,2,1,2014-11-12,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Mexico,2,3,2014-11-12,1,International Friendlies (M),NA,worldfootballR
+Jordan,"Korea, South",0,1,2014-11-14,1,International Friendlies (M),NA,worldfootballR
+United States,Colombia,1,2,2014-11-14,1,International Friendlies (M),NA,worldfootballR
+Argentina,Portugal,0,1,2014-11-18,1,International Friendlies (M),NA,worldfootballR
+Austria,Brazil,1,2,2014-11-18,1,International Friendlies (M),NA,worldfootballR
+France,Sweden,1,0,2014-11-18,1,International Friendlies (M),NA,worldfootballR
+Japan,Australia,2,1,2014-11-18,1,International Friendlies (M),NA,worldfootballR
+Panama,Canada,0,0,2014-11-18,1,International Friendlies (M),NA,worldfootballR
+Spain,Germany,0,1,2014-11-18,1,International Friendlies (M),NA,worldfootballR
+Jordan,Uzbekistan,1,2,2014-12-21,1,International Friendlies (M),NA,worldfootballR
+Iraq,Uzbekistan,0,1,2014-12-25,1,International Friendlies (M),NA,worldfootballR
+Iraq,Uzbekistan,0,0,2014-12-28,1,International Friendlies (M),NA,worldfootballR
+Tunisia,Algeria,1,1,2015-01-11,1,International Friendlies (M),NA,worldfootballR
+Jordan,Iraq,0,1,2015-01-12,1,AFC Asian Cup,Group stage,worldfootballR
+Iraq,Japan,0,1,2015-01-16,1,AFC Asian Cup,Group stage,worldfootballR
+Australia,"Korea, South",0,1,2015-01-17,1,AFC Asian Cup,Group stage,worldfootballR
+Uzbekistan,Saudi Arabia,3,1,2015-01-18,1,AFC Asian Cup,Group stage,worldfootballR
+Tunisia,Cape Verde,1,1,2015-01-18,1,Africa Cup of Nations,Group stage,worldfootballR
+Algeria,South Africa,3,1,2015-01-19,1,Africa Cup of Nations,Group stage,worldfootballR
+Ghana,Senegal,1,2,2015-01-19,1,Africa Cup of Nations,Group stage,worldfootballR
+Japan,Jordan,2,0,2015-01-20,1,AFC Asian Cup,Group stage,worldfootballR
+"Korea, South",Uzbekistan,2,0,2015-01-22,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Cape Verde,DR Congo,0,0,2015-01-22,1,Africa Cup of Nations,Group stage,worldfootballR
+Ghana,Algeria,1,0,2015-01-23,1,Africa Cup of Nations,Group stage,worldfootballR
+South Africa,Senegal,1,1,2015-01-23,1,Africa Cup of Nations,Group stage,worldfootballR
+"Korea, South",Iraq,2,0,2015-01-26,1,AFC Asian Cup,Semi-finals,worldfootballR
+DR Congo,Tunisia,1,1,2015-01-26,1,Africa Cup of Nations,Group stage,worldfootballR
+Senegal,Algeria,0,2,2015-01-27,1,Africa Cup of Nations,Group stage,worldfootballR
+South Africa,Ghana,1,2,2015-01-27,1,Africa Cup of Nations,Group stage,worldfootballR
+"Korea, South",Australia,1,2,2015-01-31,1,AFC Asian Cup,Final,worldfootballR
+United States,Panama,2,0,2015-02-08,1,International Friendlies (M),NA,worldfootballR
+Germany,Australia,2,2,2015-03-25,1,International Friendlies (M),NA,worldfootballR
+France,Brazil,1,3,2015-03-26,1,International Friendlies (M),NA,worldfootballR
+Qatar,Algeria,1,0,2015-03-26,1,International Friendlies (M),NA,worldfootballR
+Japan,Tunisia,2,0,2015-03-27,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Uzbekistan,1,1,2015-03-27,1,International Friendlies (M),NA,worldfootballR
+Ghana,Senegal,1,2,2015-03-28,1,International Friendlies (M),NA,worldfootballR
+Iraq,DR Congo,2,1,2015-03-28,1,International Friendlies (M),NA,worldfootballR
+Mexico,Ecuador,1,0,2015-03-28,1,International Friendlies (M),NA,worldfootballR
+Morocco,Uruguay,0,1,2015-03-28,1,International Friendlies (M),NA,worldfootballR
+Croatia,Norway,5,1,2015-03-28,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Saudi Arabia,Jordan,2,1,2015-03-30,1,International Friendlies (M),NA,worldfootballR
+Argentina,Ecuador,2,1,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+Iraq,DR Congo,1,0,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+Japan,Uzbekistan,5,1,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",New Zealand,1,0,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+Mexico,Paraguay,1,0,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Spain,2,0,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+Portugal,Cape Verde,0,2,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+Switzerland,United States,1,1,2015-03-31,1,International Friendlies (M),NA,worldfootballR
+United States,Mexico,2,0,2015-04-15,1,International Friendlies (M),NA,worldfootballR
+Panama,Ecuador,1,1,2015-06-03,1,International Friendlies (M),NA,worldfootballR
+Netherlands,United States,3,4,2015-06-05,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Panama,4,0,2015-06-06,1,International Friendlies (M),NA,worldfootballR
+Brazil,Mexico,2,0,2015-06-07,1,International Friendlies (M),NA,worldfootballR
+France,Belgium,3,4,2015-06-07,1,International Friendlies (M),NA,worldfootballR
+Norway,Sweden,0,0,2015-06-08,1,International Friendlies (M),NA,worldfootballR
+Germany,United States,1,2,2015-06-10,1,International Friendlies (M),NA,worldfootballR
+Japan,Iraq,4,0,2015-06-11,1,International Friendlies (M),NA,worldfootballR
+Argentina,Paraguay,2,2,2015-06-13,1,CONMEBOL Copa América,Group stage,worldfootballR
+Argentina,Uruguay,1,0,2015-06-16,1,CONMEBOL Copa América,Group stage,worldfootballR
+Brazil,Colombia,0,1,2015-06-17,1,CONMEBOL Copa América,Group stage,worldfootballR
+Mexico,Ecuador,1,2,2015-06-19,1,CONMEBOL Copa América,Group stage,worldfootballR
+Uruguay,Paraguay,1,1,2015-06-20,1,CONMEBOL Copa América,Group stage,worldfootballR
+Argentina,Colombia,0,0,2015-06-26,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Brazil,Paraguay,1,1,2015-06-27,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Argentina,Paraguay,6,1,2015-06-30,1,CONMEBOL Copa América,Semi-finals,worldfootballR
+Panama,Haiti,1,1,2015-07-07,1,CONCACAF Gold Cup,Group stage,worldfootballR
+United States,Haiti,1,0,2015-07-10,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Panama,United States,1,1,2015-07-13,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Panama,Mexico,1,2,2015-07-22,1,CONCACAF Gold Cup,Semi-finals,worldfootballR
+United States,Panama,1,1,2015-07-25,1,CONCACAF Gold Cup,Third-place match,worldfootballR
+Panama,Uruguay,0,1,2015-09-04,1,International Friendlies (M),NA,worldfootballR
+Portugal,France,0,1,2015-09-04,1,International Friendlies (M),NA,worldfootballR
+Norway,Croatia,2,0,2015-09-06,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Argentina,Mexico,2,2,2015-09-08,1,International Friendlies (M),NA,worldfootballR
+South Africa,Senegal,1,0,2015-09-08,1,International Friendlies (M),NA,worldfootballR
+United States,Brazil,1,4,2015-09-08,1,International Friendlies (M),NA,worldfootballR
+Sweden,Austria,1,4,2015-09-08,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Jordan,Iraq,3,0,2015-10-03,1,International Friendlies (M),NA,worldfootballR
+Jordan,Australia,2,0,2015-10-08,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Argentina,Ecuador,0,2,2015-10-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Argentina,0,0,2015-10-13,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Colombia,3,0,2015-10-13,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Algeria,Senegal,1,0,2015-10-13,1,International Friendlies (M),NA,worldfootballR
+Ghana,Canada,1,1,2015-10-13,1,International Friendlies (M),NA,worldfootballR
+Mexico,Panama,1,0,2015-10-13,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Czech Republic,2,3,2015-10-13,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Ecuador,Uruguay,2,1,2015-11-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Argentina,Brazil,1,1,2015-11-13,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+France,Germany,2,0,2015-11-13,1,International Friendlies (M),NA,worldfootballR
+Colombia,Argentina,0,1,2015-11-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Austria,Switzerland,1,2,2015-11-17,1,International Friendlies (M),NA,worldfootballR
+Belgium,Spain,0,0,2015-11-17,1,International Friendlies (M),NA,worldfootballR
+Germany,Netherlands,0,0,2015-11-17,1,International Friendlies (M),NA,worldfootballR
+Egypt,Jordan,0,1,2016-01-27,1,International Friendlies (M),NA,worldfootballR
+United States,Canada,1,0,2016-02-05,1,International Friendlies (M),NA,worldfootballR
+Mexico,Senegal,2,0,2016-02-10,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Paraguay,2,2,2016-03-24,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Canada,Mexico,0,3,2016-03-25,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Haiti,Panama,0,0,2016-03-25,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Brazil,Uruguay,2,2,2016-03-25,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Netherlands,France,2,3,2016-03-25,1,International Friendlies (M),NA,worldfootballR
+Australia,Jordan,5,1,2016-03-29,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Mexico,Canada,2,0,2016-03-29,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Panama,Haiti,1,0,2016-03-29,1,FIFA World Cup Qualification — CONCACAF,Fourth round,worldfootballR
+Colombia,Ecuador,3,1,2016-03-29,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Brazil,2,2,2016-03-29,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Portugal,Belgium,2,1,2016-03-29,1,International Friendlies (M),NA,worldfootballR
+Sweden,Czech Republic,1,1,2016-03-29,1,International Friendlies (M),NA,worldfootballR
+United States,Ecuador,1,0,2016-05-25,1,International Friendlies (M),NA,worldfootballR
+Mexico,Paraguay,1,0,2016-05-28,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Belgium,1,2,2016-05-28,1,International Friendlies (M),NA,worldfootballR
+Colombia,Haiti,3,1,2016-05-29,1,International Friendlies (M),NA,worldfootballR
+Panama,Brazil,0,2,2016-05-29,1,International Friendlies (M),NA,worldfootballR
+Portugal,Norway,3,0,2016-05-29,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Spain,1,6,2016-06-01,1,International Friendlies (M),NA,worldfootballR
+United States,Colombia,0,2,2016-06-03,1,CONMEBOL Copa América,Group stage,worldfootballR
+Brazil,Ecuador,0,0,2016-06-04,1,CONMEBOL Copa América,Group stage,worldfootballR
+Austria,Netherlands,0,2,2016-06-04,1,International Friendlies (M),NA,worldfootballR
+Mexico,Uruguay,3,1,2016-06-05,1,CONMEBOL Copa América,Group stage,worldfootballR
+Belgium,Norway,3,2,2016-06-05,1,International Friendlies (M),NA,worldfootballR
+Czech Republic,"Korea, South",1,2,2016-06-05,1,International Friendlies (M),NA,worldfootballR
+Colombia,Paraguay,2,1,2016-06-07,1,CONMEBOL Copa América,Group stage,worldfootballR
+Uzbekistan,Canada,1,2,2016-06-07,1,International Friendlies (M),NA,worldfootballR
+Brazil,Haiti,7,1,2016-06-08,1,CONMEBOL Copa América,Group stage,worldfootballR
+Argentina,Panama,5,0,2016-06-10,1,CONMEBOL Copa América,Group stage,worldfootballR
+United States,Paraguay,1,0,2016-06-11,1,CONMEBOL Copa América,Group stage,worldfootballR
+Ecuador,Haiti,4,0,2016-06-12,1,CONMEBOL Copa América,Group stage,worldfootballR
+Spain,Czech Republic,1,0,2016-06-13,1,UEFA European Football Championship,Group stage,worldfootballR
+United States,Ecuador,2,1,2016-06-16,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Czech Republic,Croatia,2,2,2016-06-17,1,UEFA European Football Championship,Group stage,worldfootballR
+Portugal,Austria,0,0,2016-06-18,1,UEFA European Football Championship,Group stage,worldfootballR
+Switzerland,France,0,0,2016-06-19,1,UEFA European Football Championship,Group stage,worldfootballR
+United States,Argentina,0,4,2016-06-21,1,CONMEBOL Copa América,Semi-finals,worldfootballR
+Croatia,Spain,2,1,2016-06-21,1,UEFA European Football Championship,Group stage,worldfootballR
+Sweden,Belgium,0,1,2016-06-22,1,UEFA European Football Championship,Group stage,worldfootballR
+United States,Colombia,0,1,2016-06-25,1,CONMEBOL Copa América,Third-place match,worldfootballR
+Croatia,Portugal,0,1,2016-06-25,1,UEFA European Football Championship,Round of 16,worldfootballR
+Germany,France,0,2,2016-07-07,1,UEFA European Football Championship,Semi-finals,worldfootballR
+Portugal,France,1,0,2016-07-10,1,UEFA European Football Championship,Final,worldfootballR
+Uzbekistan,Iraq,2,1,2016-07-24,1,International Friendlies (M),NA,worldfootballR
+Qatar,Iraq,2,1,2016-08-08,1,International Friendlies (M),NA,worldfootballR
+Qatar,Jordan,3,2,2016-08-18,1,International Friendlies (M),NA,worldfootballR
+Australia,Iraq,2,0,2016-09-01,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Argentina,Uruguay,1,0,2016-09-01,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Brazil,0,3,2016-09-01,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Belgium,Spain,0,2,2016-09-01,1,International Friendlies (M),NA,worldfootballR
+Norway,Germany,0,3,2016-09-04,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Iraq,Saudi Arabia,1,2,2016-09-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Qatar,Uzbekistan,0,1,2016-09-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Brazil,Colombia,2,1,2016-09-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Paraguay,4,0,2016-09-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Sweden,Netherlands,1,1,2016-09-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Switzerland,Portugal,2,0,2016-09-06,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+South Africa,Egypt,1,0,2016-09-06,1,International Friendlies (M),NA,worldfootballR
+Japan,Iraq,2,1,2016-10-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+"Korea, South",Qatar,3,2,2016-10-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Saudi Arabia,Australia,2,2,2016-10-06,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Paraguay,Colombia,0,1,2016-10-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Senegal,Cape Verde,2,0,2016-10-08,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Germany,Czech Republic,3,0,2016-10-08,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Mexico,New Zealand,2,1,2016-10-08,1,International Friendlies (M),NA,worldfootballR
+Netherlands,France,0,1,2016-10-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Australia,Japan,1,1,2016-10-11,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Argentina,Paraguay,0,1,2016-10-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Uruguay,2,2,2016-10-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Morocco,Canada,4,0,2016-10-11,1,International Friendlies (M),NA,worldfootballR
+Panama,Mexico,0,1,2016-10-11,1,International Friendlies (M),NA,worldfootballR
+South Africa,Ghana,1,1,2016-10-11,1,International Friendlies (M),NA,worldfootballR
+United States,New Zealand,1,1,2016-10-11,1,International Friendlies (M),NA,worldfootballR
+Jordan,Iraq,0,0,2016-11-06,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Belgium,1,1,2016-11-09,1,International Friendlies (M),NA,worldfootballR
+Brazil,Argentina,3,0,2016-11-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Ecuador,2,1,2016-11-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uzbekistan,Jordan,1,0,2016-11-10,1,International Friendlies (M),NA,worldfootballR
+United States,Mexico,1,2,2016-11-11,1,FIFA World Cup Qualification — CONCACAF,Fifth round,worldfootballR
+Czech Republic,Norway,2,1,2016-11-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+France,Sweden,2,1,2016-11-11,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+"Korea, South",Canada,2,0,2016-11-11,1,International Friendlies (M),NA,worldfootballR
+Egypt,Ghana,2,0,2016-11-13,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Japan,Saudi Arabia,2,1,2016-11-15,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+"Korea, South",Uzbekistan,2,1,2016-11-15,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Panama,Mexico,0,0,2016-11-15,1,FIFA World Cup Qualification — CONCACAF,Fifth round,worldfootballR
+Argentina,Colombia,3,0,2016-11-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Egypt,Tunisia,1,0,2017-01-08,1,International Friendlies (M),NA,worldfootballR
+Tunisia,Senegal,0,2,2017-01-15,1,Africa Cup of Nations,Group stage,worldfootballR
+DR Congo,Morocco,1,0,2017-01-16,1,Africa Cup of Nations,Group stage,worldfootballR
+Algeria,Tunisia,1,2,2017-01-19,1,Africa Cup of Nations,Group stage,worldfootballR
+Senegal,Algeria,2,2,2017-01-23,1,Africa Cup of Nations,Group stage,worldfootballR
+Egypt,Ghana,1,0,2017-01-25,1,Africa Cup of Nations,Group stage,worldfootballR
+Brazil,Colombia,1,0,2017-01-25,1,International Friendlies (M),NA,worldfootballR
+DR Congo,Ghana,1,2,2017-01-29,1,Africa Cup of Nations,Quarter-finals,worldfootballR
+Egypt,Morocco,1,0,2017-01-29,1,Africa Cup of Nations,Quarter-finals,worldfootballR
+Iraq,Australia,1,1,2017-03-23,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Paraguay,Ecuador,2,1,2017-03-23,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Brazil,1,4,2017-03-23,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Saudi Arabia,Iraq,1,0,2017-03-28,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Uzbekistan,Qatar,1,0,2017-03-28,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Panama,United States,1,1,2017-03-28,1,FIFA World Cup Qualification — CONCACAF,Fifth round,worldfootballR
+Brazil,Paraguay,3,0,2017-03-28,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Ecuador,Colombia,0,2,2017-03-28,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+France,Spain,0,2,2017-03-28,1,International Friendlies (M),NA,worldfootballR
+Morocco,Tunisia,1,0,2017-03-28,1,International Friendlies (M),NA,worldfootballR
+Portugal,Sweden,2,3,2017-03-28,1,International Friendlies (M),NA,worldfootballR
+Mexico,Croatia,1,2,2017-05-27,1,International Friendlies (M),NA,worldfootballR
+Morocco,Netherlands,1,2,2017-05-31,1,International Friendlies (M),NA,worldfootballR
+Iraq,Jordan,1,0,2017-06-01,1,International Friendlies (M),NA,worldfootballR
+France,Paraguay,5,0,2017-06-02,1,International Friendlies (M),NA,worldfootballR
+Belgium,Czech Republic,2,1,2017-06-05,1,International Friendlies (M),NA,worldfootballR
+Iraq,"Korea, South",0,0,2017-06-07,1,International Friendlies (M),NA,worldfootballR
+Spain,Colombia,2,2,2017-06-07,1,International Friendlies (M),NA,worldfootballR
+Australia,Saudi Arabia,3,2,2017-06-08,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Sweden,France,2,1,2017-06-09,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Norway,Czech Republic,1,1,2017-06-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Mexico,United States,1,1,2017-06-11,1,FIFA World Cup Qualification — CONCACAF,Fifth round,worldfootballR
+Iraq,Japan,1,1,2017-06-13,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Qatar,"Korea, South",3,2,2017-06-13,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Australia,Brazil,0,4,2017-06-13,1,International Friendlies (M),NA,worldfootballR
+Canada,Curacao,2,1,2017-06-13,1,International Friendlies (M),NA,worldfootballR
+Norway,Sweden,1,1,2017-06-13,1,International Friendlies (M),NA,worldfootballR
+Mexico,Ghana,1,0,2017-06-28,1,International Friendlies (M),NA,worldfootballR
+Mexico,Paraguay,2,1,2017-07-01,1,International Friendlies (M),NA,worldfootballR
+United States,Ghana,2,1,2017-07-01,1,International Friendlies (M),NA,worldfootballR
+United States,Panama,1,1,2017-07-08,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Curacao,Mexico,0,2,2017-07-16,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Japan,Australia,2,0,2017-08-31,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Brazil,Ecuador,2,0,2017-08-31,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Argentina,0,0,2017-08-31,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+France,Netherlands,4,0,2017-08-31,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Cape Verde,South Africa,2,1,2017-09-01,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Tunisia,DR Congo,2,1,2017-09-01,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Mexico,Panama,1,0,2017-09-01,1,FIFA World Cup Qualification — CONCACAF,Fifth round,worldfootballR
+Czech Republic,Germany,1,2,2017-09-01,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Germany,Norway,6,0,2017-09-04,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Saudi Arabia,Japan,1,0,2017-09-05,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Uzbekistan,"Korea, South",0,0,2017-09-05,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+DR Congo,Tunisia,2,2,2017-09-05,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+South Africa,Cape Verde,1,2,2017-09-05,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Colombia,Brazil,1,1,2017-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Uruguay,1,2,2017-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Paraguay,1,2,2017-10-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+United States,Panama,4,0,2017-10-06,1,FIFA World Cup Qualification — CONCACAF,Fifth round,worldfootballR
+Japan,New Zealand,2,1,2017-10-06,1,International Friendlies (M),NA,worldfootballR
+Cape Verde,Senegal,0,2,2017-10-07,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Ecuador,Argentina,1,3,2017-10-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Netherlands,Sweden,2,0,2017-10-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Portugal,Switzerland,2,0,2017-10-10,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Japan,Haiti,3,3,2017-10-10,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Morocco,1,3,2017-10-10,1,International Friendlies (M),NA,worldfootballR
+Qatar,Curacao,1,2,2017-10-10,1,International Friendlies (M),NA,worldfootballR
+South Africa,Senegal,0,2,2017-11-10,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Belgium,Mexico,3,3,2017-11-10,1,International Friendlies (M),NA,worldfootballR
+Japan,Brazil,1,3,2017-11-10,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Colombia,2,1,2017-11-10,1,International Friendlies (M),NA,worldfootballR
+Portugal,Saudi Arabia,3,0,2017-11-10,1,International Friendlies (M),NA,worldfootballR
+Qatar,Czech Republic,0,1,2017-11-11,1,International Friendlies (M),NA,worldfootballR
+Ghana,Egypt,1,1,2017-11-12,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Senegal,South Africa,2,1,2017-11-14,1,FIFA World Cup Qualification — CAF,Third round,worldfootballR
+Austria,Uruguay,2,1,2017-11-14,1,International Friendlies (M),NA,worldfootballR
+Belgium,Japan,1,0,2017-11-14,1,International Friendlies (M),NA,worldfootballR
+Germany,France,2,2,2017-11-14,1,International Friendlies (M),NA,worldfootballR
+Portugal,United States,1,1,2017-11-14,1,International Friendlies (M),NA,worldfootballR
+Iraq,Saudi Arabia,4,1,2018-02-28,1,International Friendlies (M),NA,worldfootballR
+Iraq,Qatar,2,3,2018-03-21,1,International Friendlies (M),NA,worldfootballR
+France,Colombia,2,3,2018-03-23,1,International Friendlies (M),NA,worldfootballR
+Germany,Spain,1,1,2018-03-23,1,International Friendlies (M),NA,worldfootballR
+Norway,Australia,4,1,2018-03-23,1,International Friendlies (M),NA,worldfootballR
+Portugal,Egypt,2,1,2018-03-23,1,International Friendlies (M),NA,worldfootballR
+Senegal,Uzbekistan,1,1,2018-03-23,1,International Friendlies (M),NA,worldfootballR
+Canada,New Zealand,1,0,2018-03-24,1,International Friendlies (M),NA,worldfootballR
+Portugal,Netherlands,0,3,2018-03-26,1,International Friendlies (M),NA,worldfootballR
+Belgium,Saudi Arabia,4,0,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+Colombia,Australia,0,0,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+Germany,Brazil,0,1,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+Mexico,Croatia,0,1,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+Morocco,Uzbekistan,2,0,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+Spain,Argentina,6,1,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Panama,6,0,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+United States,Paraguay,1,0,2018-03-27,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Algeria,2,0,2018-05-09,1,International Friendlies (M),NA,worldfootballR
+Portugal,Tunisia,2,2,2018-05-28,1,International Friendlies (M),NA,worldfootballR
+Argentina,Haiti,4,0,2018-05-29,1,International Friendlies (M),NA,worldfootballR
+Japan,Ghana,0,2,2018-05-30,1,International Friendlies (M),NA,worldfootballR
+Algeria,Cape Verde,2,3,2018-06-01,1,International Friendlies (M),NA,worldfootballR
+Australia,Czech Republic,4,0,2018-06-01,1,International Friendlies (M),NA,worldfootballR
+Egypt,Colombia,0,0,2018-06-01,1,International Friendlies (M),NA,worldfootballR
+Austria,Germany,2,1,2018-06-02,1,International Friendlies (M),NA,worldfootballR
+Belgium,Portugal,0,0,2018-06-02,1,International Friendlies (M),NA,worldfootballR
+Brazil,Croatia,2,0,2018-06-03,1,International Friendlies (M),NA,worldfootballR
+Spain,Switzerland,1,1,2018-06-03,1,International Friendlies (M),NA,worldfootballR
+Belgium,Egypt,3,0,2018-06-06,1,International Friendlies (M),NA,worldfootballR
+Norway,Panama,1,0,2018-06-06,1,International Friendlies (M),NA,worldfootballR
+Portugal,Algeria,3,0,2018-06-07,1,International Friendlies (M),NA,worldfootballR
+Uruguay,Uzbekistan,3,0,2018-06-07,1,International Friendlies (M),NA,worldfootballR
+Croatia,Senegal,2,1,2018-06-08,1,International Friendlies (M),NA,worldfootballR
+Germany,Saudi Arabia,2,1,2018-06-08,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Japan,2,0,2018-06-08,1,International Friendlies (M),NA,worldfootballR
+France,United States,1,1,2018-06-09,1,International Friendlies (M),NA,worldfootballR
+Spain,Tunisia,1,0,2018-06-09,1,International Friendlies (M),NA,worldfootballR
+Austria,Brazil,0,3,2018-06-10,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Senegal,0,2,2018-06-11,1,International Friendlies (M),NA,worldfootballR
+Japan,Paraguay,4,2,2018-06-12,1,International Friendlies (M),NA,worldfootballR
+Egypt,Uruguay,0,1,2018-06-15,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,Spain,3,3,2018-06-15,1,FIFA World Cup,Group stage,worldfootballR
+Egypt,Uruguay,0,1,2018-06-15,1,FIWC,NA,h2h
+Morocco,Iran,0,1,2018-06-15,1,FIWC,NA,h2h
+Portugal,Spain,3,3,2018-06-15,1,FIWC,NA,h2h
+France,Australia,2,1,2018-06-16,1,FIFA World Cup,Group stage,worldfootballR
+France,Australia,2,1,2018-06-16,1,FIWC,NA,h2h
+Brazil,Switzerland,1,1,2018-06-17,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Mexico,0,1,2018-06-17,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Switzerland,1,1,2018-06-17,1,FIWC,NA,h2h
+Germany,Mexico,0,1,2018-06-17,1,FIWC,NA,h2h
+Belgium,Panama,3,0,2018-06-18,1,FIFA World Cup,Group stage,worldfootballR
+Sweden,"Korea, South",1,0,2018-06-18,1,FIFA World Cup,Group stage,worldfootballR
+Sweden,"Korea, South",1,0,2018-06-18,1,FIWC,NA,h2h
+Tunisia,England,1,2,2018-06-18,1,FIWC,NA,h2h
+Colombia,Japan,1,2,2018-06-19,1,FIFA World Cup,Group stage,worldfootballR
+Colombia,Japan,1,2,2018-06-19,1,FIWC,NA,h2h
+Portugal,Morocco,1,0,2018-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,Saudi Arabia,1,0,2018-06-20,1,FIFA World Cup,Group stage,worldfootballR
+Iran,Spain,0,1,2018-06-20,1,FIWC,NA,h2h
+Portugal,Morocco,1,0,2018-06-20,1,FIWC,NA,h2h
+Uruguay,Saudi Arabia,1,0,2018-06-20,1,FIWC,NA,h2h
+Argentina,Croatia,0,3,2018-06-21,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Croatia,0,3,2018-06-21,1,FIWC,NA,h2h
+Belgium,Tunisia,5,2,2018-06-23,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Sweden,2,1,2018-06-23,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Mexico,1,2,2018-06-23,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Sweden,2,1,2018-06-23,1,FIWC,NA,h2h
+"Korea, South",Mexico,1,2,2018-06-23,1,FIWC,NA,h2h
+Japan,Senegal,2,2,2018-06-24,1,FIFA World Cup,Group stage,worldfootballR
+England,Panama,6,1,2018-06-24,1,FIWC,NA,h2h
+Japan,Senegal,2,2,2018-06-24,1,FIWC,NA,h2h
+Saudi Arabia,Egypt,2,1,2018-06-25,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Morocco,2,2,2018-06-25,1,FIFA World Cup,Group stage,worldfootballR
+Iran,Portugal,1,1,2018-06-25,1,FIWC,NA,h2h
+Saudi Arabia,Egypt,2,1,2018-06-25,1,FIWC,NA,h2h
+Spain,Morocco,2,2,2018-06-25,1,FIWC,NA,h2h
+"Korea, South",Germany,2,0,2018-06-27,1,FIFA World Cup,Group stage,worldfootballR
+Mexico,Sweden,0,3,2018-06-27,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Germany,2,0,2018-06-27,1,FIWC,NA,h2h
+Mexico,Sweden,0,3,2018-06-27,1,FIWC,NA,h2h
+Panama,Tunisia,1,2,2018-06-28,1,FIFA World Cup,Group stage,worldfootballR
+Senegal,Colombia,0,1,2018-06-28,1,FIFA World Cup,Group stage,worldfootballR
+Panama,Tunisia,1,2,2018-06-28,1,FIWC,NA,h2h
+Senegal,Colombia,0,1,2018-06-28,1,FIWC,NA,h2h
+France,Argentina,4,3,2018-06-30,1,FIFA World Cup,Round of 16,worldfootballR
+Uruguay,Portugal,2,1,2018-06-30,1,FIFA World Cup,Round of 16,worldfootballR
+France,Argentina,4,3,2018-06-30,1,FIWC,NA,h2h
+Uruguay,Portugal,2,1,2018-06-30,1,FIWC,NA,h2h
+Belgium,Japan,3,2,2018-07-02,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,Mexico,2,0,2018-07-02,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,Mexico,2,0,2018-07-02,1,FIWC,NA,h2h
+Sweden,Switzerland,1,0,2018-07-03,1,FIFA World Cup,Round of 16,worldfootballR
+Colombia,England,4,5,2018-07-03,1,FIWC,NA,h2h
+Sweden,Switzerland,1,0,2018-07-03,1,FIWC,NA,h2h
+Brazil,Belgium,1,2,2018-07-06,1,FIFA World Cup,Quarter-finals,worldfootballR
+Uruguay,France,0,2,2018-07-06,1,FIFA World Cup,Quarter-finals,worldfootballR
+Uruguay,France,0,2,2018-07-06,1,FIWC,NA,h2h
+Sweden,England,0,2,2018-07-07,1,FIWC,NA,h2h
+France,Belgium,1,0,2018-07-10,1,FIFA World Cup,Semi-finals,worldfootballR
+Croatia,England,2,1,2018-07-11,1,FIWC,NA,h2h
+France,Croatia,4,2,2018-07-15,1,FIFA World Cup,Final,worldfootballR
+France,Croatia,4,2,2018-07-15,1,FIWC,NA,h2h
+Austria,Sweden,2,0,2018-09-06,1,International Friendlies (M),NA,worldfootballR
+Portugal,Croatia,1,1,2018-09-06,1,International Friendlies (M),NA,worldfootballR
+Mexico,Uruguay,1,4,2018-09-07,1,International Friendlies (M),NA,worldfootballR
+United States,Brazil,0,2,2018-09-07,1,International Friendlies (M),NA,worldfootballR
+Colombia,Argentina,0,0,2018-09-11,1,International Friendlies (M),NA,worldfootballR
+United States,Mexico,1,0,2018-09-11,1,International Friendlies (M),NA,worldfootballR
+Iraq,Argentina,0,4,2018-10-11,1,International Friendlies (M),NA,worldfootballR
+United States,Colombia,2,4,2018-10-11,1,International Friendlies (M),NA,worldfootballR
+Japan,Panama,3,0,2018-10-12,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Uruguay,2,1,2018-10-12,1,International Friendlies (M),NA,worldfootballR
+Qatar,Ecuador,4,3,2018-10-12,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Brazil,0,2,2018-10-12,1,International Friendlies (M),NA,worldfootballR
+Croatia,Jordan,2,1,2018-10-15,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Iraq,1,1,2018-10-15,1,International Friendlies (M),NA,worldfootballR
+Belgium,Netherlands,1,1,2018-10-16,1,International Friendlies (M),NA,worldfootballR
+Japan,Uruguay,4,3,2018-10-16,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Panama,2,2,2018-10-16,1,International Friendlies (M),NA,worldfootballR
+Uzbekistan,Qatar,2,0,2018-10-16,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Qatar,0,1,2018-11-14,1,International Friendlies (M),NA,worldfootballR
+Argentina,Mexico,2,0,2018-11-16,1,International Friendlies (M),NA,worldfootballR
+Brazil,Uruguay,1,0,2018-11-16,1,International Friendlies (M),NA,worldfootballR
+Australia,"Korea, South",1,1,2018-11-17,1,International Friendlies (M),NA,worldfootballR
+Argentina,Mexico,2,0,2018-11-20,1,International Friendlies (M),NA,worldfootballR
+France,Uruguay,1,0,2018-11-20,1,International Friendlies (M),NA,worldfootballR
+Jordan,Saudi Arabia,1,1,2018-11-20,1,International Friendlies (M),NA,worldfootballR
+Panama,Ecuador,1,2,2018-11-20,1,International Friendlies (M),NA,worldfootballR
+South Africa,Paraguay,1,1,2018-11-20,1,International Friendlies (M),NA,worldfootballR
+Tunisia,Morocco,0,1,2018-11-20,1,International Friendlies (M),NA,worldfootballR
+Uzbekistan,"Korea, South",0,4,2018-11-20,1,International Friendlies (M),NA,worldfootballR
+Qatar,Jordan,2,0,2018-12-23,1,International Friendlies (M),NA,worldfootballR
+Qatar,Algeria,0,1,2018-12-27,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,"Korea, South",0,0,2018-12-31,1,International Friendlies (M),NA,worldfootballR
+Australia,Jordan,0,1,2019-01-06,1,AFC Asian Cup,Group stage,worldfootballR
+Japan,Uzbekistan,2,1,2019-01-17,1,AFC Asian Cup,Group stage,worldfootballR
+Saudi Arabia,Qatar,0,2,2019-01-17,1,AFC Asian Cup,Group stage,worldfootballR
+Australia,Uzbekistan,0,0,2019-01-21,1,AFC Asian Cup,Round of 16,worldfootballR
+Japan,Saudi Arabia,1,0,2019-01-21,1,AFC Asian Cup,Round of 16,worldfootballR
+Qatar,Iraq,1,0,2019-01-22,1,AFC Asian Cup,Round of 16,worldfootballR
+"Korea, South",Qatar,0,1,2019-01-25,1,AFC Asian Cup,Quarter-finals,worldfootballR
+United States,Panama,3,0,2019-01-27,1,International Friendlies (M),NA,worldfootballR
+Japan,Qatar,1,3,2019-02-01,1,AFC Asian Cup,Final,worldfootballR
+United States,Ecuador,1,0,2019-03-21,1,International Friendlies (M),NA,worldfootballR
+Japan,Colombia,0,1,2019-03-22,1,International Friendlies (M),NA,worldfootballR
+Brazil,Panama,1,1,2019-03-23,1,International Friendlies (M),NA,worldfootballR
+Spain,Norway,2,1,2019-03-23,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Netherlands,Germany,2,3,2019-03-24,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Algeria,Tunisia,1,0,2019-03-26,1,International Friendlies (M),NA,worldfootballR
+Czech Republic,Brazil,1,3,2019-03-26,1,International Friendlies (M),NA,worldfootballR
+Iraq,Jordan,3,2,2019-03-26,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Colombia,2,1,2019-03-26,1,International Friendlies (M),NA,worldfootballR
+Mexico,Paraguay,4,2,2019-03-26,1,International Friendlies (M),NA,worldfootballR
+Morocco,Argentina,0,1,2019-03-26,1,International Friendlies (M),NA,worldfootballR
+Norway,Sweden,3,3,2019-03-26,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Colombia,Panama,3,0,2019-06-03,1,International Friendlies (M),NA,worldfootballR
+Brazil,Qatar,2,0,2019-06-05,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Australia,1,0,2019-06-07,1,International Friendlies (M),NA,worldfootballR
+Tunisia,Iraq,2,0,2019-06-07,1,International Friendlies (M),NA,worldfootballR
+Uruguay,Panama,3,0,2019-06-07,1,International Friendlies (M),NA,worldfootballR
+Mexico,Ecuador,3,2,2019-06-09,1,International Friendlies (M),NA,worldfootballR
+Spain,Sweden,3,0,2019-06-10,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Croatia,Tunisia,1,2,2019-06-11,1,International Friendlies (M),NA,worldfootballR
+Argentina,Colombia,0,2,2019-06-15,1,CONMEBOL Copa América,Group stage,worldfootballR
+Paraguay,Qatar,2,2,2019-06-16,1,CONMEBOL Copa América,Group stage,worldfootballR
+Uruguay,Ecuador,4,0,2019-06-16,1,CONMEBOL Copa América,Group stage,worldfootballR
+Mexico,Canada,3,1,2019-06-19,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Argentina,Paraguay,1,1,2019-06-19,1,CONMEBOL Copa América,Group stage,worldfootballR
+Colombia,Qatar,1,0,2019-06-19,1,CONMEBOL Copa América,Group stage,worldfootballR
+Uruguay,Japan,2,2,2019-06-20,1,CONMEBOL Copa América,Group stage,worldfootballR
+Colombia,Paraguay,1,0,2019-06-23,1,CONMEBOL Copa América,Group stage,worldfootballR
+Qatar,Argentina,0,2,2019-06-23,1,CONMEBOL Copa América,Group stage,worldfootballR
+Ecuador,Japan,1,1,2019-06-24,1,CONMEBOL Copa América,Group stage,worldfootballR
+Egypt,DR Congo,2,0,2019-06-26,1,Africa Cup of Nations,Group stage,worldfootballR
+Panama,United States,0,1,2019-06-26,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Senegal,Algeria,0,1,2019-06-27,1,Africa Cup of Nations,Group stage,worldfootballR
+Brazil,Paraguay,0,0,2019-06-27,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Haiti,Canada,3,2,2019-06-29,1,CONCACAF Gold Cup,Quarter-finals,worldfootballR
+United States,Curacao,1,0,2019-06-30,1,CONCACAF Gold Cup,Quarter-finals,worldfootballR
+South Africa,Morocco,0,1,2019-07-01,1,Africa Cup of Nations,Group stage,worldfootballR
+Haiti,Mexico,0,1,2019-07-02,1,CONCACAF Gold Cup,Semi-finals,worldfootballR
+Brazil,Argentina,2,0,2019-07-02,1,CONMEBOL Copa América,Semi-finals,worldfootballR
+Egypt,South Africa,0,1,2019-07-06,1,Africa Cup of Nations,Round of 16,worldfootballR
+Mexico,United States,1,0,2019-07-07,1,CONCACAF Gold Cup,Final,worldfootballR
+Ghana,Tunisia,1,1,2019-07-08,1,Africa Cup of Nations,Round of 16,worldfootballR
+Senegal,Tunisia,1,0,2019-07-14,1,Africa Cup of Nations,Semi-finals,worldfootballR
+Senegal,Algeria,0,1,2019-07-19,1,Africa Cup of Nations,Final,worldfootballR
+Japan,Paraguay,2,0,2019-09-05,1,International Friendlies (M),NA,worldfootballR
+Brazil,Colombia,2,2,2019-09-06,1,International Friendlies (M),NA,worldfootballR
+United States,Mexico,0,3,2019-09-06,1,International Friendlies (M),NA,worldfootballR
+Germany,Netherlands,2,4,2019-09-06,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Sweden,Norway,1,1,2019-09-08,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Iraq,Uzbekistan,0,0,2019-09-09,1,International Friendlies (M),NA,worldfootballR
+Argentina,Mexico,4,0,2019-09-10,1,International Friendlies (M),NA,worldfootballR
+Jordan,Paraguay,2,4,2019-09-10,1,International Friendlies (M),NA,worldfootballR
+United States,Uruguay,1,1,2019-09-10,1,International Friendlies (M),NA,worldfootballR
+Germany,Argentina,2,2,2019-10-09,1,International Friendlies (M),NA,worldfootballR
+Algeria,DR Congo,1,1,2019-10-10,1,International Friendlies (M),NA,worldfootballR
+Brazil,Senegal,1,1,2019-10-10,1,International Friendlies (M),NA,worldfootballR
+Norway,Spain,1,1,2019-10-12,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Argentina,Ecuador,6,1,2019-10-13,1,International Friendlies (M),NA,worldfootballR
+Algeria,Colombia,3,0,2019-10-15,1,International Friendlies (M),NA,worldfootballR
+Sweden,Spain,1,1,2019-10-15,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Jordan,Australia,0,1,2019-11-14,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Uzbekistan,Saudi Arabia,2,3,2019-11-14,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Brazil,Argentina,0,1,2019-11-15,1,International Friendlies (M),NA,worldfootballR
+Argentina,Uruguay,2,2,2019-11-18,1,International Friendlies (M),NA,worldfootballR
+Brazil,"Korea, South",3,0,2019-11-19,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Colombia,0,1,2019-11-19,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Paraguay,0,0,2019-11-19,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Mexico,0,1,2020-10-07,1,International Friendlies (M),NA,worldfootballR
+Portugal,Spain,0,0,2020-10-07,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Croatia,1,2,2020-10-07,1,International Friendlies (M),NA,worldfootballR
+Argentina,Ecuador,1,0,2020-10-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Morocco,Senegal,3,1,2020-10-09,1,International Friendlies (M),NA,worldfootballR
+Ghana,Qatar,5,1,2020-10-12,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Uruguay,4,2,2020-10-13,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Mexico,Algeria,2,2,2020-10-13,1,International Friendlies (M),NA,worldfootballR
+Morocco,DR Congo,1,1,2020-10-13,1,International Friendlies (M),NA,worldfootballR
+Belgium,Switzerland,2,1,2020-11-11,1,International Friendlies (M),NA,worldfootballR
+Germany,Czech Republic,1,0,2020-11-11,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Spain,1,1,2020-11-11,1,International Friendlies (M),NA,worldfootballR
+Argentina,Paraguay,1,1,2020-11-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Iraq,Jordan,0,0,2020-11-12,1,International Friendlies (M),NA,worldfootballR
+Colombia,Uruguay,0,3,2020-11-13,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Japan,Panama,1,0,2020-11-13,1,International Friendlies (M),NA,worldfootballR
+Mexico,"Korea, South",3,2,2020-11-14,1,International Friendlies (M),NA,worldfootballR
+United States,Panama,6,2,2020-11-16,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Colombia,6,1,2020-11-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Brazil,0,2,2020-11-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Iraq,Uzbekistan,2,1,2020-11-17,1,International Friendlies (M),NA,worldfootballR
+Japan,Mexico,0,2,2020-11-17,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Qatar,2,1,2020-11-17,1,International Friendlies (M),NA,worldfootballR
+Jordan,Uzbekistan,0,2,2021-02-15,1,International Friendlies (M),NA,worldfootballR
+Japan,"Korea, South",3,0,2021-03-25,1,International Friendlies (M),NA,worldfootballR
+Czech Republic,Belgium,1,1,2021-03-27,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Uzbekistan,Iraq,0,1,2021-03-29,1,International Friendlies (M),NA,worldfootballR
+Switzerland,United States,2,1,2021-05-30,1,International Friendlies (M),NA,worldfootballR
+Uruguay,Paraguay,0,0,2021-06-03,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Ecuador,2,0,2021-06-04,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Spain,Portugal,0,0,2021-06-04,1,International Friendlies (M),NA,worldfootballR
+Tunisia,DR Congo,1,0,2021-06-05,1,International Friendlies (M),NA,worldfootballR
+Belgium,Croatia,1,0,2021-06-06,1,International Friendlies (M),NA,worldfootballR
+Colombia,Argentina,2,2,2021-06-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Brazil,0,2,2021-06-08,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Morocco,Ghana,1,0,2021-06-08,1,International Friendlies (M),NA,worldfootballR
+Senegal,Cape Verde,2,0,2021-06-08,1,International Friendlies (M),NA,worldfootballR
+Tunisia,Algeria,0,2,2021-06-11,1,International Friendlies (M),NA,worldfootballR
+Colombia,Ecuador,1,0,2021-06-13,1,CONMEBOL Copa América,Group stage,worldfootballR
+England,Croatia,1,0,2021-06-13,1,EURO,NA,h2h
+Scotland,Czech Republic,0,2,2021-06-14,1,EURO,NA,h2h
+Spain,Sweden,0,0,2021-06-14,1,EURO,NA,h2h
+Spain,Sweden,0,0,2021-06-14,1,UEFA European Football Championship,Group stage,worldfootballR
+France,Germany,1,0,2021-06-15,1,EURO,NA,h2h
+Australia,Jordan,1,0,2021-06-15,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Saudi Arabia,Uzbekistan,3,0,2021-06-15,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+France,Germany,1,0,2021-06-15,1,UEFA European Football Championship,Group stage,worldfootballR
+Netherlands,Austria,2,0,2021-06-17,1,EURO,NA,h2h
+Netherlands,Austria,2,0,2021-06-17,1,UEFA European Football Championship,Group stage,worldfootballR
+Argentina,Uruguay,1,0,2021-06-18,1,CONMEBOL Copa América,Group stage,worldfootballR
+Croatia,Czech Republic,1,1,2021-06-18,1,EURO,NA,h2h
+England,Scotland,0,0,2021-06-18,1,EURO,NA,h2h
+Croatia,Czech Republic,1,1,2021-06-18,1,UEFA European Football Championship,Group stage,worldfootballR
+Portugal,Germany,2,4,2021-06-19,1,EURO,NA,h2h
+Portugal,Germany,2,4,2021-06-19,1,UEFA European Football Championship,Group stage,worldfootballR
+Argentina,Paraguay,1,0,2021-06-21,1,CONMEBOL Copa América,Group stage,worldfootballR
+Croatia,Scotland,3,1,2021-06-22,1,EURO,NA,h2h
+Czech Republic,England,0,1,2021-06-22,1,EURO,NA,h2h
+Brazil,Colombia,2,1,2021-06-23,1,CONMEBOL Copa América,Group stage,worldfootballR
+Portugal,France,2,2,2021-06-23,1,EURO,NA,h2h
+Portugal,France,2,2,2021-06-23,1,UEFA European Football Championship,Group stage,worldfootballR
+Brazil,Ecuador,1,1,2021-06-27,1,CONMEBOL Copa América,Group stage,worldfootballR
+Netherlands,Czech Republic,0,2,2021-06-27,1,EURO,NA,h2h
+Belgium,Portugal,1,0,2021-06-27,1,UEFA European Football Championship,Round of 16,worldfootballR
+Netherlands,Czech Republic,0,2,2021-06-27,1,UEFA European Football Championship,Round of 16,worldfootballR
+Uruguay,Paraguay,1,0,2021-06-28,1,CONMEBOL Copa América,Group stage,worldfootballR
+Croatia,Spain,3,5,2021-06-28,1,EURO,NA,h2h
+France,Switzerland,7,8,2021-06-28,1,EURO,NA,h2h
+Croatia,Spain,3,5,2021-06-28,1,UEFA European Football Championship,Round of 16,worldfootballR
+France,Switzerland,3,3,2021-06-28,1,UEFA European Football Championship,Round of 16,worldfootballR
+England,Germany,2,0,2021-06-29,1,EURO,NA,h2h
+Mexico,Panama,3,0,2021-06-30,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Spain,2,4,2021-07-02,1,EURO,NA,h2h
+Switzerland,Spain,1,1,2021-07-02,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Argentina,Ecuador,3,0,2021-07-03,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Uruguay,Colombia,0,0,2021-07-03,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Argentina,Colombia,1,1,2021-07-06,1,CONMEBOL Copa América,Semi-finals,worldfootballR
+Argentina,Brazil,1,0,2021-07-10,1,CONMEBOL Copa América,Final,worldfootballR
+United States,Haiti,1,0,2021-07-11,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Qatar,Panama,3,3,2021-07-13,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Haiti,Canada,1,4,2021-07-15,1,CONCACAF Gold Cup,Group stage,worldfootballR
+United States,Canada,1,0,2021-07-18,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Mexico,Canada,2,1,2021-07-29,1,CONCACAF Gold Cup,Semi-finals,worldfootballR
+Qatar,United States,0,1,2021-07-29,1,CONCACAF Gold Cup,Semi-finals,worldfootballR
+United States,Mexico,1,0,2021-08-01,1,CONCACAF Gold Cup,Final,worldfootballR
+Norway,Netherlands,1,1,2021-09-01,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+"Korea, South",Iraq,0,0,2021-09-02,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Ecuador,Paraguay,2,0,2021-09-02,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Sweden,Spain,2,1,2021-09-02,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Jordan,Haiti,0,2,2021-09-04,1,International Friendlies (M),NA,worldfootballR
+Qatar,Portugal,1,3,2021-09-04,1,International Friendlies (M),NA,worldfootballR
+Brazil,Argentina,0,0,2021-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Colombia,1,1,2021-09-05,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Belgium,Czech Republic,3,0,2021-09-05,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Sweden,Uzbekistan,2,1,2021-09-05,1,International Friendlies (M),NA,worldfootballR
+Uruguay,Ecuador,1,0,2021-09-09,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Saudi Arabia,Japan,1,0,2021-10-07,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Paraguay,Argentina,0,0,2021-10-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Colombia,0,0,2021-10-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+New Zealand,Curacao,2,1,2021-10-09,1,International Friendlies (M),NA,worldfootballR
+Portugal,Qatar,3,0,2021-10-09,1,International Friendlies (M),NA,worldfootballR
+Argentina,Uruguay,3,0,2021-10-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Brazil,0,0,2021-10-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Japan,Australia,2,1,2021-10-12,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Jordan,Uzbekistan,3,0,2021-10-12,1,International Friendlies (M),NA,worldfootballR
+Brazil,Uruguay,4,1,2021-10-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Ecuador,0,0,2021-10-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Mexico,Ecuador,2,3,2021-10-27,1,International Friendlies (M),NA,worldfootballR
+Australia,Saudi Arabia,0,0,2021-11-11,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Brazil,Colombia,1,0,2021-11-11,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Argentina,0,1,2021-11-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Spain,Sweden,1,0,2021-11-14,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Iraq,"Korea, South",0,3,2021-11-16,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Argentina,Brazil,0,0,2021-11-16,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Paraguay,0,0,2021-11-16,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Netherlands,Norway,2,0,2021-11-16,1,FIFA World Cup Qualification — UEFA,First round,worldfootballR
+Algeria,Ghana,3,0,2022-01-05,1,International Friendlies (M),NA,worldfootballR
+Morocco,Ghana,1,0,2022-01-10,1,Africa Cup of Nations,Group stage,worldfootballR
+Senegal,Cape Verde,2,0,2022-01-25,1,Africa Cup of Nations,Round of 16,worldfootballR
+Ecuador,Brazil,1,1,2022-01-27,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Uruguay,0,1,2022-01-27,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Jordan,New Zealand,3,1,2022-01-28,1,International Friendlies (M),NA,worldfootballR
+Egypt,Morocco,2,1,2022-01-30,1,Africa Cup of Nations,Quarter-finals,worldfootballR
+Japan,Saudi Arabia,2,0,2022-02-01,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Argentina,Colombia,1,0,2022-02-01,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Paraguay,4,0,2022-02-01,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Senegal,Egypt,0,0,2022-02-06,1,Africa Cup of Nations,Final,worldfootballR
+Australia,Japan,0,2,2022-03-24,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Paraguay,Ecuador,3,1,2022-03-24,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Sweden,Czech Republic,1,0,2022-03-24,1,FIFA World Cup Qualification — UEFA,Semi-finals,worldfootballR
+Saudi Arabia,Australia,1,0,2022-03-29,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Ecuador,Argentina,1,1,2022-03-29,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+France,South Africa,5,0,2022-03-29,1,International Friendlies (M),NA,worldfootballR
+Netherlands,Germany,1,1,2022-03-29,1,International Friendlies (M),NA,worldfootballR
+Jordan,Australia,1,2,2022-06-01,1,International Friendlies (M),NA,worldfootballR
+United States,Morocco,3,0,2022-06-01,1,International Friendlies (M),NA,worldfootballR
+Japan,Paraguay,4,1,2022-06-02,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Brazil,1,5,2022-06-02,1,International Friendlies (M),NA,worldfootballR
+Mexico,Uruguay,0,3,2022-06-02,1,International Friendlies (M),NA,worldfootballR
+Mexico,Ecuador,0,0,2022-06-05,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Colombia,0,1,2022-06-05,1,International Friendlies (M),NA,worldfootballR
+Japan,Brazil,0,1,2022-06-06,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Paraguay,2,2,2022-06-10,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Cape Verde,1,0,2022-06-11,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Egypt,4,1,2022-06-14,1,International Friendlies (M),NA,worldfootballR
+Mexico,Paraguay,0,1,2022-08-31,1,International Friendlies (M),NA,worldfootballR
+Australia,New Zealand,1,0,2022-09-22,1,International Friendlies (M),NA,worldfootballR
+Brazil,Ghana,3,0,2022-09-23,1,International Friendlies (M),NA,worldfootballR
+Japan,United States,2,0,2022-09-23,1,International Friendlies (M),NA,worldfootballR
+Qatar,Canada,0,2,2022-09-23,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Ecuador,0,0,2022-09-23,1,International Friendlies (M),NA,worldfootballR
+New Zealand,Australia,0,2,2022-09-25,1,International Friendlies (M),NA,worldfootballR
+Brazil,Tunisia,5,1,2022-09-27,1,International Friendlies (M),NA,worldfootballR
+Canada,Uruguay,0,2,2022-09-27,1,International Friendlies (M),NA,worldfootballR
+Japan,Ecuador,0,0,2022-09-27,1,International Friendlies (M),NA,worldfootballR
+Mexico,Colombia,2,3,2022-09-27,1,International Friendlies (M),NA,worldfootballR
+Morocco,Paraguay,0,0,2022-09-27,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,United States,0,0,2022-09-27,1,International Friendlies (M),NA,worldfootballR
+Mexico,Iraq,4,0,2022-11-09,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Panama,1,1,2022-11-10,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Iraq,0,0,2022-11-12,1,International Friendlies (M),NA,worldfootballR
+Mexico,Sweden,1,2,2022-11-16,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Croatia,0,1,2022-11-16,1,International Friendlies (M),NA,worldfootballR
+Ghana,Switzerland,2,0,2022-11-17,1,International Friendlies (M),NA,worldfootballR
+Japan,Canada,1,2,2022-11-17,1,International Friendlies (M),NA,worldfootballR
+Egypt,Belgium,2,1,2022-11-18,1,International Friendlies (M),NA,worldfootballR
+Colombia,Paraguay,2,0,2022-11-19,1,International Friendlies (M),NA,worldfootballR
+Sweden,Algeria,2,0,2022-11-19,1,International Friendlies (M),NA,worldfootballR
+Qatar,Ecuador,0,2,2022-11-20,1,FIFA World Cup,Group stage,worldfootballR
+Qatar,Ecuador,0,2,2022-11-20,1,FIWC,NA,h2h
+Senegal,Netherlands,0,2,2022-11-21,1,FIFA World Cup,Group stage,worldfootballR
+England,Iran,6,2,2022-11-21,1,FIWC,NA,h2h
+Senegal,Netherlands,0,2,2022-11-21,1,FIWC,NA,h2h
+Argentina,Saudi Arabia,1,2,2022-11-22,1,FIFA World Cup,Group stage,worldfootballR
+France,Australia,4,1,2022-11-22,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Saudi Arabia,1,2,2022-11-22,1,FIWC,NA,h2h
+France,Australia,4,1,2022-11-22,1,FIWC,NA,h2h
+Belgium,Canada,1,0,2022-11-23,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Japan,1,2,2022-11-23,1,FIFA World Cup,Group stage,worldfootballR
+Morocco,Croatia,0,0,2022-11-23,1,FIFA World Cup,Group stage,worldfootballR
+Germany,Japan,1,2,2022-11-23,1,FIWC,NA,h2h
+Morocco,Croatia,0,0,2022-11-23,1,FIWC,NA,h2h
+Portugal,Ghana,3,2,2022-11-24,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,"Korea, South",0,0,2022-11-24,1,FIFA World Cup,Group stage,worldfootballR
+Uruguay,"Korea, South",0,0,2022-11-24,1,FIWC,NA,h2h
+Netherlands,Ecuador,1,1,2022-11-25,1,FIFA World Cup,Group stage,worldfootballR
+Qatar,Senegal,1,3,2022-11-25,1,FIFA World Cup,Group stage,worldfootballR
+England,United States,0,0,2022-11-25,1,FIWC,NA,h2h
+Netherlands,Ecuador,1,1,2022-11-25,1,FIWC,NA,h2h
+Qatar,Senegal,1,3,2022-11-25,1,FIWC,NA,h2h
+Argentina,Mexico,2,0,2022-11-26,1,FIFA World Cup,Group stage,worldfootballR
+Tunisia,Australia,0,1,2022-11-26,1,FIFA World Cup,Group stage,worldfootballR
+Argentina,Mexico,2,0,2022-11-26,1,FIWC,NA,h2h
+Tunisia,Australia,0,1,2022-11-26,1,FIWC,NA,h2h
+Belgium,Morocco,0,2,2022-11-27,1,FIFA World Cup,Group stage,worldfootballR
+Croatia,Canada,4,1,2022-11-27,1,FIFA World Cup,Group stage,worldfootballR
+Spain,Germany,1,1,2022-11-27,1,FIFA World Cup,Group stage,worldfootballR
+Croatia,Canada,4,1,2022-11-27,1,FIWC,NA,h2h
+Spain,Germany,1,1,2022-11-27,1,FIWC,NA,h2h
+Brazil,Switzerland,1,0,2022-11-28,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Ghana,2,3,2022-11-28,1,FIFA World Cup,Group stage,worldfootballR
+Portugal,Uruguay,2,0,2022-11-28,1,FIFA World Cup,Group stage,worldfootballR
+Brazil,Switzerland,1,0,2022-11-28,1,FIWC,NA,h2h
+Portugal,Uruguay,2,0,2022-11-28,1,FIWC,NA,h2h
+Ecuador,Senegal,1,2,2022-11-29,1,FIFA World Cup,Group stage,worldfootballR
+Netherlands,Qatar,2,0,2022-11-29,1,FIFA World Cup,Group stage,worldfootballR
+Ecuador,Senegal,1,2,2022-11-29,1,FIWC,NA,h2h
+Iran,United States,0,1,2022-11-29,1,FIWC,NA,h2h
+Netherlands,Qatar,2,0,2022-11-29,1,FIWC,NA,h2h
+Saudi Arabia,Mexico,1,2,2022-11-30,1,FIFA World Cup,Group stage,worldfootballR
+Tunisia,France,1,0,2022-11-30,1,FIFA World Cup,Group stage,worldfootballR
+Saudi Arabia,Mexico,1,2,2022-11-30,1,FIWC,NA,h2h
+Tunisia,France,1,0,2022-11-30,1,FIWC,NA,h2h
+Canada,Morocco,1,2,2022-12-01,1,FIFA World Cup,Group stage,worldfootballR
+Croatia,Belgium,0,0,2022-12-01,1,FIFA World Cup,Group stage,worldfootballR
+Japan,Spain,2,1,2022-12-01,1,FIFA World Cup,Group stage,worldfootballR
+Canada,Morocco,1,2,2022-12-01,1,FIWC,NA,h2h
+Japan,Spain,2,1,2022-12-01,1,FIWC,NA,h2h
+Ghana,Uruguay,0,2,2022-12-02,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Portugal,2,1,2022-12-02,1,FIFA World Cup,Group stage,worldfootballR
+"Korea, South",Portugal,2,1,2022-12-02,1,FIWC,NA,h2h
+Argentina,Australia,2,1,2022-12-03,1,FIFA World Cup,Round of 16,worldfootballR
+Netherlands,United States,3,1,2022-12-03,1,FIFA World Cup,Round of 16,worldfootballR
+Argentina,Australia,2,1,2022-12-03,1,FIWC,NA,h2h
+Netherlands,United States,3,1,2022-12-03,1,FIWC,NA,h2h
+England,Senegal,3,0,2022-12-04,1,FIWC,NA,h2h
+Brazil,"Korea, South",4,1,2022-12-05,1,FIFA World Cup,Round of 16,worldfootballR
+Japan,Croatia,1,1,2022-12-05,1,FIFA World Cup,Round of 16,worldfootballR
+Brazil,"Korea, South",4,1,2022-12-05,1,FIWC,NA,h2h
+Japan,Croatia,2,4,2022-12-05,1,FIWC,NA,h2h
+Morocco,Spain,0,0,2022-12-06,1,FIFA World Cup,Round of 16,worldfootballR
+Portugal,Switzerland,6,1,2022-12-06,1,FIFA World Cup,Round of 16,worldfootballR
+Morocco,Spain,3,0,2022-12-06,1,FIWC,NA,h2h
+Portugal,Switzerland,6,1,2022-12-06,1,FIWC,NA,h2h
+Croatia,Brazil,1,1,2022-12-09,1,FIFA World Cup,Quarter-finals,worldfootballR
+Netherlands,Argentina,2,2,2022-12-09,1,FIFA World Cup,Quarter-finals,worldfootballR
+Croatia,Brazil,5,3,2022-12-09,1,FIWC,NA,h2h
+Netherlands,Argentina,5,6,2022-12-09,1,FIWC,NA,h2h
+Morocco,Portugal,1,0,2022-12-10,1,FIFA World Cup,Quarter-finals,worldfootballR
+England,France,1,2,2022-12-10,1,FIWC,NA,h2h
+Morocco,Portugal,1,0,2022-12-10,1,FIWC,NA,h2h
+Argentina,Croatia,3,0,2022-12-13,1,FIFA World Cup,Semi-finals,worldfootballR
+Argentina,Croatia,3,0,2022-12-13,1,FIWC,NA,h2h
+France,Morocco,2,0,2022-12-14,1,FIFA World Cup,Semi-finals,worldfootballR
+France,Morocco,2,0,2022-12-14,1,FIWC,NA,h2h
+Croatia,Morocco,2,1,2022-12-17,1,FIFA World Cup,Third-place match,worldfootballR
+Croatia,Morocco,2,1,2022-12-17,1,FIWC,NA,h2h
+Argentina,France,3,3,2022-12-18,1,FIFA World Cup,Final,worldfootballR
+Argentina,France,7,5,2022-12-18,1,FIWC,NA,h2h
+United States,Colombia,0,0,2023-01-28,1,International Friendlies (M),NA,worldfootballR
+Argentina,Panama,2,0,2023-03-23,1,International Friendlies (M),NA,worldfootballR
+Australia,Ecuador,3,1,2023-03-24,1,International Friendlies (M),NA,worldfootballR
+Japan,Uruguay,1,1,2023-03-24,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Colombia,2,2,2023-03-24,1,International Friendlies (M),NA,worldfootballR
+France,Netherlands,4,0,2023-03-24,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Sweden,Belgium,0,3,2023-03-24,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Morocco,Brazil,2,1,2023-03-25,1,International Friendlies (M),NA,worldfootballR
+Spain,Norway,3,0,2023-03-25,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Argentina,Curacao,7,0,2023-03-28,1,International Friendlies (M),NA,worldfootballR
+Australia,Ecuador,1,2,2023-03-28,1,International Friendlies (M),NA,worldfootballR
+Germany,Belgium,2,3,2023-03-28,1,International Friendlies (M),NA,worldfootballR
+Japan,Colombia,1,2,2023-03-28,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Uruguay,1,2,2023-03-28,1,International Friendlies (M),NA,worldfootballR
+United States,Mexico,1,1,2023-04-19,1,International Friendlies (M),NA,worldfootballR
+Morocco,Cape Verde,0,0,2023-06-12,1,International Friendlies (M),NA,worldfootballR
+Argentina,Australia,2,0,2023-06-15,1,International Friendlies (M),NA,worldfootballR
+Colombia,Iraq,1,0,2023-06-16,1,International Friendlies (M),NA,worldfootballR
+Sweden,New Zealand,4,1,2023-06-16,1,International Friendlies (M),NA,worldfootballR
+Belgium,Austria,1,1,2023-06-17,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Qatar,New Zealand,0,1,2023-06-19,1,International Friendlies (M),NA,worldfootballR
+Algeria,Tunisia,1,1,2023-06-20,1,International Friendlies (M),NA,worldfootballR
+Brazil,Senegal,2,4,2023-06-20,1,International Friendlies (M),NA,worldfootballR
+Germany,Colombia,0,2,2023-06-20,1,International Friendlies (M),NA,worldfootballR
+Austria,Sweden,2,0,2023-06-20,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Haiti,Qatar,2,1,2023-06-25,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Haiti,Mexico,1,3,2023-06-29,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Mexico,Qatar,0,1,2023-07-02,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Panama,Qatar,4,0,2023-07-08,1,CONCACAF Gold Cup,Quarter-finals,worldfootballR
+United States,Canada,2,2,2023-07-09,1,CONCACAF Gold Cup,Quarter-finals,worldfootballR
+United States,Panama,1,1,2023-07-12,1,CONCACAF Gold Cup,Semi-finals,worldfootballR
+Mexico,Panama,1,0,2023-07-16,1,CONCACAF Gold Cup,Final,worldfootballR
+Argentina,Ecuador,1,0,2023-09-07,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Norway,Jordan,6,0,2023-09-07,1,International Friendlies (M),NA,worldfootballR
+Germany,Japan,1,4,2023-09-09,1,International Friendlies (M),NA,worldfootballR
+Mexico,Australia,2,2,2023-09-09,1,International Friendlies (M),NA,worldfootballR
+United States,Uzbekistan,3,0,2023-09-09,1,International Friendlies (M),NA,worldfootballR
+Ecuador,Uruguay,2,1,2023-09-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Egypt,Tunisia,1,3,2023-09-12,1,International Friendlies (M),NA,worldfootballR
+Germany,France,2,1,2023-09-12,1,International Friendlies (M),NA,worldfootballR
+Mexico,Uzbekistan,3,3,2023-09-12,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,"Korea, South",0,1,2023-09-12,1,International Friendlies (M),NA,worldfootballR
+Senegal,Algeria,0,1,2023-09-12,1,International Friendlies (M),NA,worldfootballR
+South Africa,DR Congo,1,0,2023-09-12,1,International Friendlies (M),NA,worldfootballR
+Sweden,Austria,1,3,2023-09-12,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Argentina,Paraguay,1,0,2023-10-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Uruguay,2,2,2023-10-12,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Algeria,Cape Verde,5,1,2023-10-12,1,International Friendlies (M),NA,worldfootballR
+Japan,Canada,4,1,2023-10-13,1,International Friendlies (M),NA,worldfootballR
+"Korea, South",Tunisia,4,0,2023-10-13,1,International Friendlies (M),NA,worldfootballR
+New Zealand,DR Congo,1,1,2023-10-13,1,International Friendlies (M),NA,worldfootballR
+Austria,Belgium,2,3,2023-10-13,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Netherlands,France,1,2,2023-10-13,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Mexico,Ghana,2,0,2023-10-14,1,International Friendlies (M),NA,worldfootballR
+United States,Germany,1,3,2023-10-14,1,International Friendlies (M),NA,worldfootballR
+Norway,Spain,0,1,2023-10-15,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Egypt,Algeria,1,1,2023-10-16,1,International Friendlies (M),NA,worldfootballR
+Belgium,Sweden,1,1,2023-10-16,1,UEFA European Football Championship Qualifying,Group stage,worldfootballR
+Ecuador,Colombia,0,0,2023-10-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Brazil,2,0,2023-10-17,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Australia,New Zealand,2,0,2023-10-17,1,International Friendlies (M),NA,worldfootballR
+Japan,Tunisia,2,0,2023-10-17,1,International Friendlies (M),NA,worldfootballR
+Mexico,Germany,2,2,2023-10-17,1,International Friendlies (M),NA,worldfootballR
+United States,Ghana,4,0,2023-10-17,1,International Friendlies (M),NA,worldfootballR
+Argentina,Uruguay,0,2,2023-11-16,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Brazil,2,1,2023-11-16,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Jordan,Saudi Arabia,0,2,2023-11-21,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+Brazil,Argentina,0,1,2023-11-21,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Colombia,0,1,2023-11-21,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Austria,Germany,2,0,2023-11-21,1,International Friendlies (M),NA,worldfootballR
+Ghana,Cape Verde,1,2,2024-01-14,1,Africa Cup of Nations,Group stage,worldfootballR
+Egypt,Ghana,2,2,2024-01-18,1,Africa Cup of Nations,Group stage,worldfootballR
+Iraq,Japan,2,1,2024-01-19,1,AFAC,NA,h2h
+Iraq,Japan,2,1,2024-01-19,1,AFC Asian Cup,Group stage,worldfootballR
+Jordan,"Korea, South",2,2,2024-01-20,1,AFAC,NA,h2h
+Jordan,"Korea, South",2,2,2024-01-20,1,AFC Asian Cup,Group stage,worldfootballR
+Morocco,DR Congo,1,1,2024-01-21,1,Africa Cup of Nations,Group stage,worldfootballR
+Cape Verde,Egypt,2,2,2024-01-22,1,Africa Cup of Nations,Group stage,worldfootballR
+Australia,Uzbekistan,1,1,2024-01-23,1,AFAC,NA,h2h
+Australia,Uzbekistan,1,1,2024-01-23,1,AFC Asian Cup,Group stage,worldfootballR
+South Africa,Tunisia,0,0,2024-01-24,1,Africa Cup of Nations,Group stage,worldfootballR
+Egypt,DR Congo,1,1,2024-01-28,1,Africa Cup of Nations,Round of 16,worldfootballR
+Iraq,Jordan,2,3,2024-01-29,1,AFAC,NA,h2h
+Iraq,Jordan,2,3,2024-01-29,1,AFC Asian Cup,Round of 16,worldfootballR
+Saudi Arabia,"Korea, South",3,5,2024-01-30,1,AFAC,NA,h2h
+Saudi Arabia,"Korea, South",1,1,2024-01-30,1,AFC Asian Cup,Round of 16,worldfootballR
+Morocco,South Africa,0,2,2024-01-30,1,Africa Cup of Nations,Round of 16,worldfootballR
+Australia,"Korea, South",1,2,2024-02-02,1,AFAC,NA,h2h
+Australia,"Korea, South",1,2,2024-02-02,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Iran,Japan,2,1,2024-02-03,1,AFAC,NA,h2h
+Qatar,Uzbekistan,4,3,2024-02-03,1,AFAC,NA,h2h
+Qatar,Uzbekistan,1,1,2024-02-03,1,AFC Asian Cup,Quarter-finals,worldfootballR
+Cape Verde,South Africa,0,0,2024-02-03,1,Africa Cup of Nations,Quarter-finals,worldfootballR
+Jordan,"Korea, South",2,0,2024-02-06,1,AFAC,NA,h2h
+Jordan,"Korea, South",2,0,2024-02-06,1,AFC Asian Cup,Semi-finals,worldfootballR
+Iran,Qatar,2,3,2024-02-07,1,AFAC,NA,h2h
+Jordan,Qatar,1,3,2024-02-10,1,AFAC,NA,h2h
+Jordan,Qatar,1,3,2024-02-10,1,AFC Asian Cup,Final,worldfootballR
+South Africa,DR Congo,0,0,2024-02-10,1,Africa Cup of Nations,Third-place match,worldfootballR
+Portugal,Sweden,5,2,2024-03-21,1,International Friendlies (M),NA,worldfootballR
+Norway,Czech Republic,1,2,2024-03-22,1,International Friendlies (M),NA,worldfootballR
+Spain,Colombia,0,1,2024-03-22,1,International Friendlies (M),NA,worldfootballR
+France,Germany,0,2,2024-03-23,1,International Friendlies (M),NA,worldfootballR
+Germany,Netherlands,2,1,2024-03-26,1,International Friendlies (M),NA,worldfootballR
+Spain,Brazil,3,3,2024-03-26,1,International Friendlies (M),NA,worldfootballR
+Mexico,Uruguay,0,4,2024-06-05,1,International Friendlies (M),NA,worldfootballR
+Senegal,DR Congo,1,1,2024-06-06,1,FIFA World Cup Qualification — CAF,First round,worldfootballR
+Netherlands,Canada,4,0,2024-06-06,1,International Friendlies (M),NA,worldfootballR
+Mexico,Brazil,2,3,2024-06-08,1,International Friendlies (M),NA,worldfootballR
+Portugal,Croatia,1,2,2024-06-08,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Austria,1,1,2024-06-08,1,International Friendlies (M),NA,worldfootballR
+United States,Colombia,1,5,2024-06-08,1,International Friendlies (M),NA,worldfootballR
+Argentina,Ecuador,1,0,2024-06-09,1,International Friendlies (M),NA,worldfootballR
+France,Canada,0,0,2024-06-09,1,International Friendlies (M),NA,worldfootballR
+Saudi Arabia,Jordan,1,2,2024-06-11,1,FIFA World Cup Qualification — AFC,Second round,worldfootballR
+United States,Brazil,1,1,2024-06-12,1,International Friendlies (M),NA,worldfootballR
+Germany,Scotland,5,1,2024-06-14,1,EURO,NA,h2h
+Spain,Croatia,3,0,2024-06-15,1,EURO,NA,h2h
+Spain,Croatia,3,0,2024-06-15,1,UEFA European Football Championship,Group stage,worldfootballR
+Panama,Paraguay,0,1,2024-06-16,1,International Friendlies (M),NA,worldfootballR
+Austria,France,0,1,2024-06-17,1,EURO,NA,h2h
+Austria,France,0,1,2024-06-17,1,UEFA European Football Championship,Group stage,worldfootballR
+Portugal,Czech Republic,2,1,2024-06-18,1,EURO,NA,h2h
+Portugal,Czech Republic,2,1,2024-06-18,1,UEFA European Football Championship,Group stage,worldfootballR
+Scotland,Switzerland,1,1,2024-06-19,1,EURO,NA,h2h
+Argentina,Canada,2,0,2024-06-20,1,CONMEBOL Copa América,Group stage,worldfootballR
+Argentina,Canada,2,0,2024-06-21,1,COPA,NA,h2h
+Netherlands,France,0,0,2024-06-21,1,EURO,NA,h2h
+Netherlands,France,0,0,2024-06-21,1,UEFA European Football Championship,Group stage,worldfootballR
+Uruguay,Panama,3,1,2024-06-23,1,CONMEBOL Copa América,Group stage,worldfootballR
+Switzerland,Germany,1,1,2024-06-23,1,EURO,NA,h2h
+Switzerland,Germany,1,1,2024-06-23,1,UEFA European Football Championship,Group stage,worldfootballR
+Colombia,Paraguay,2,1,2024-06-24,1,CONMEBOL Copa América,Group stage,worldfootballR
+Colombia,Paraguay,2,1,2024-06-24,1,COPA,NA,h2h
+Uruguay,Panama,3,1,2024-06-24,1,COPA,NA,h2h
+Netherlands,Austria,2,3,2024-06-25,1,EURO,NA,h2h
+Netherlands,Austria,2,3,2024-06-25,1,UEFA European Football Championship,Group stage,worldfootballR
+Panama,United States,2,1,2024-06-27,1,CONMEBOL Copa América,Group stage,worldfootballR
+Panama,United States,2,1,2024-06-27,1,COPA,NA,h2h
+Paraguay,Brazil,1,4,2024-06-28,1,CONMEBOL Copa América,Group stage,worldfootballR
+Paraguay,Brazil,1,4,2024-06-29,1,COPA,NA,h2h
+Mexico,Ecuador,0,0,2024-06-30,1,CONMEBOL Copa América,Group stage,worldfootballR
+United States,Uruguay,0,1,2024-07-01,1,CONMEBOL Copa América,Group stage,worldfootballR
+Mexico,Ecuador,0,0,2024-07-01,1,COPA,NA,h2h
+France,Belgium,1,0,2024-07-01,1,UEFA European Football Championship,Round of 16,worldfootballR
+Brazil,Colombia,1,1,2024-07-02,1,CONMEBOL Copa América,Group stage,worldfootballR
+United States,Uruguay,0,1,2024-07-02,1,COPA,NA,h2h
+Brazil,Colombia,1,1,2024-07-03,1,COPA,NA,h2h
+Argentina,Ecuador,1,1,2024-07-04,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Argentina,Ecuador,5,3,2024-07-05,1,COPA,NA,h2h
+Portugal,France,3,5,2024-07-05,1,EURO,NA,h2h
+Spain,Germany,2,1,2024-07-05,1,EURO,NA,h2h
+Portugal,France,0,0,2024-07-05,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Spain,Germany,2,1,2024-07-05,1,UEFA European Football Championship,Quarter-finals,worldfootballR
+Colombia,Panama,5,0,2024-07-06,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Uruguay,Brazil,0,0,2024-07-06,1,CONMEBOL Copa América,Quarter-finals,worldfootballR
+Colombia,Panama,5,0,2024-07-06,1,COPA,NA,h2h
+England,Switzerland,6,4,2024-07-06,1,EURO,NA,h2h
+Uruguay,Brazil,4,2,2024-07-07,1,COPA,NA,h2h
+Argentina,Canada,2,0,2024-07-09,1,CONMEBOL Copa América,Semi-finals,worldfootballR
+Spain,France,2,1,2024-07-09,1,EURO,NA,h2h
+Spain,France,2,1,2024-07-09,1,UEFA European Football Championship,Semi-finals,worldfootballR
+Uruguay,Colombia,0,1,2024-07-10,1,CONMEBOL Copa América,Semi-finals,worldfootballR
+Argentina,Canada,2,0,2024-07-10,1,COPA,NA,h2h
+Netherlands,England,1,2,2024-07-10,1,EURO,NA,h2h
+Uruguay,Colombia,0,1,2024-07-11,1,COPA,NA,h2h
+Canada,Uruguay,2,2,2024-07-13,1,CONMEBOL Copa América,Third-place match,worldfootballR
+Argentina,Colombia,1,0,2024-07-14,1,CONMEBOL Copa América,Final,worldfootballR
+Canada,Uruguay,5,6,2024-07-14,1,COPA,NA,h2h
+Spain,England,2,1,2024-07-14,1,EURO,NA,h2h
+Argentina,Colombia,1,0,2024-07-15,1,COPA,NA,h2h
+Brazil,Ecuador,1,0,2024-09-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Paraguay,0,0,2024-09-06,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Mexico,New Zealand,3,0,2024-09-07,1,International Friendlies (M),NA,worldfootballR
+United States,Canada,1,2,2024-09-07,1,International Friendlies (M),NA,worldfootballR
+Colombia,Argentina,2,1,2024-09-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Paraguay,Brazil,1,0,2024-09-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Mexico,Canada,0,0,2024-09-10,1,International Friendlies (M),NA,worldfootballR
+United States,New Zealand,1,1,2024-09-10,1,International Friendlies (M),NA,worldfootballR
+Jordan,"Korea, South",0,2,2024-10-10,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Saudi Arabia,Japan,0,2,2024-10-10,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Ecuador,Paraguay,0,0,2024-10-10,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+United States,Panama,2,0,2024-10-12,1,International Friendlies (M),NA,worldfootballR
+Japan,Australia,1,1,2024-10-15,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+"Korea, South",Iraq,3,2,2024-10-15,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Uruguay,Ecuador,0,0,2024-10-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Canada,Panama,2,1,2024-10-15,1,International Friendlies (M),NA,worldfootballR
+Mexico,United States,2,0,2024-10-15,1,International Friendlies (M),NA,worldfootballR
+Australia,Saudi Arabia,0,0,2024-11-14,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Iraq,Jordan,0,0,2024-11-14,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Qatar,Uzbekistan,3,2,2024-11-14,1,FIFA World Cup Qualification — AFC,Third round,worldfootballR
+Paraguay,Argentina,2,1,2024-11-14,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Uruguay,Colombia,3,2,2024-11-15,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Brazil,Uruguay,1,1,2024-11-19,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Colombia,Ecuador,0,1,2024-11-19,1,FIFA World Cup Qualification — CONMEBOL,NA,worldfootballR
+Haiti,Saudi Arabia,0,1,2025-06-15,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Saudi Arabia,United States,0,1,2025-06-19,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Curacao,Canada,1,1,2025-06-21,1,CONCACAF Gold Cup,Group stage,worldfootballR
+United States,Haiti,2,1,2025-06-22,1,CONCACAF Gold Cup,Group stage,worldfootballR
+Mexico,Saudi Arabia,2,0,2025-06-28,1,CONCACAF Gold Cup,Quarter-finals,worldfootballR
+United States,Mexico,1,2,2025-07-06,1,CONCACAF Gold Cup,Final,worldfootballR
+Senegal,DR Congo,1,1,2025-12-27,1,AFCN,NA,h2h
+Algeria,DR Congo,1,0,2026-01-06,1,AFCN,NA,h2h
+Senegal,Egypt,1,0,2026-01-14,1,AFCN,NA,h2h
+Senegal,Morocco,0,3,2026-01-18,1,AFCN,NA,h2h
+Colombia,Jordan,3,0,NA,1,International Friendlies (M),NA,worldfootballR
+Mexico,Portugal,0,1,NA,1,International Friendlies (M),NA,worldfootballR
+Switzerland,Turkiye,3,1,2021-06-20,1,Transfermarkt recent,NA,transfermarkt_recent
+Turkiye,Portugal,0,3,2024-06-22,1,Transfermarkt recent,NA,transfermarkt_recent
+Czech Republic,Turkiye,1,2,2024-06-26,1,Transfermarkt recent,NA,transfermarkt_recent
+Austria,Turkiye,1,2,2024-07-02,1,Transfermarkt recent,NA,transfermarkt_recent
+Netherlands,Turkiye,2,1,2024-07-06,1,Transfermarkt recent,NA,transfermarkt_recent
+Egypt,Cote d'Ivoire,3,2,2026-01-10,1,Transfermarkt recent,NA,transfermarkt_recent
+Croatia,Nigeria,2,0,2018-06-16,1,national_team_competition,NA,h2h_recent
+Nigeria,Argentina,1,2,2018-06-26,1,national_team_competition,NA,h2h_recent
+Switzerland,Türkiye,3,1,2021-06-20,1,national_team_competition,NA,h2h_recent
+Switzerland,Cameroon,1,0,2022-11-24,1,national_team_competition,NA,h2h_recent
+Cameroon,Brazil,1,0,2022-12-02,1,national_team_competition,NA,h2h_recent
+Türkiye,Portugal,0,3,2024-06-22,1,national_team_competition,NA,h2h_recent
+Czech Republic,Türkiye,1,2,2024-06-26,1,national_team_competition,NA,h2h_recent
+Austria,Türkiye,1,2,2024-07-02,1,national_team_competition,NA,h2h_recent
+Netherlands,Türkiye,2,1,2024-07-06,1,national_team_competition,NA,h2h_recent
+Morocco,Mali,1,1,2025-12-26,1,national_team_competition,NA,h2h_recent
+Nigeria,Tunisia,3,2,2025-12-27,1,national_team_competition,NA,h2h_recent
+Côte d'Ivoire,Cameroon,1,1,2025-12-28,1,national_team_competition,NA,h2h_recent
+Mali,Senegal,0,1,2026-01-09,1,national_team_competition,NA,h2h_recent
+Cameroon,Morocco,0,2,2026-01-09,1,national_team_competition,NA,h2h_recent
+Algeria,Nigeria,0,2,2026-01-10,1,national_team_competition,NA,h2h_recent
+Egypt,Côte d'Ivoire,3,2,2026-01-10,1,national_team_competition,NA,h2h_recent
+Mali,Tunisia,3,2,2026-01-03,1,national_team_competition,NA,h2h_recent
+Nigeria,Morocco,2,4,2026-01-14,1,national_team_competition,NA,h2h_recent
+Egypt,Nigeria,2,4,2026-01-17,1,national_team_competition,NA,h2h_recent

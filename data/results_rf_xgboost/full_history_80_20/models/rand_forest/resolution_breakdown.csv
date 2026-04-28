@@ -1,0 +1,13 @@
+stage,resolution,n,prob
+bronze_final,regular,119,0.595
+bronze_final,penalties,81,0.405
+final,regular,158,0.79
+final,penalties,42,0.21
+quarter_final,regular,711,0.88875
+quarter_final,penalties,89,0.11125
+round_of_16,regular,1092,0.6825
+round_of_16,penalties,508,0.3175
+round_of_32,regular,2000,0.625
+round_of_32,penalties,1200,0.375
+semi_final,regular,358,0.895
+semi_final,penalties,42,0.105

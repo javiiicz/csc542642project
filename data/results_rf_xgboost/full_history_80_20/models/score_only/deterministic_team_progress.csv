@@ -1,0 +1,33 @@
+team,matches_played,wins,losses,match_path,last_match_number,last_stage,last_result,furthest_round,final_position,model_name,score_model_name,winner_model_name,history_scope,sim_id
+Croatia,5,4,1,82 -> 94 -> 98 -> 101 -> 104,104,final,loss,Final,Runner-up,score_only,score_poisson_glm,score_only,full_history_80_20,0
+France,5,5,0,87 -> 96 -> 100 -> 102 -> 104,104,final,win,Final,Champion,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Argentina,5,4,1,77 -> 89 -> 97 -> 101 -> 103,103,bronze_final,win,Bronze final,Third place,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Brazil,5,3,2,76 -> 91 -> 99 -> 102 -> 103,103,bronze_final,loss,Bronze final,Fourth place,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Uruguay,3,2,1,86 -> 95 -> 100,100,quarter_final,loss,Quarter-final,Quarter-final,score_only,score_poisson_glm,score_only,full_history_80_20,0
+South Africa,3,2,1,79 -> 92 -> 99,99,quarter_final,loss,Quarter-final,Quarter-final,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Spain,3,2,1,84 -> 93 -> 98,98,quarter_final,loss,Quarter-final,Quarter-final,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Bosnia-Herzegovina,3,2,1,73 -> 90 -> 97,97,quarter_final,loss,Quarter-final,Quarter-final,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Canada,2,1,1,85 -> 96,96,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Egypt,2,1,1,88 -> 95,95,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Paraguay,2,1,1,81 -> 94,94,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+England,2,1,1,83 -> 93,93,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Scotland,2,1,1,80 -> 92,92,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Norway,2,1,1,78 -> 91,91,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Morocco,2,1,1,75 -> 90,90,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+New Zealand,2,1,1,74 -> 89,89,round_of_16,loss,Round of 16,Round of 16,score_only,score_poisson_glm,score_only,full_history_80_20,0
+United States,1,0,1,88,88,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Colombia,1,0,1,87,87,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Jordan,1,0,1,86,86,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Turkiye,1,0,1,85,85,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Algeria,1,0,1,84,84,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Portugal,1,0,1,83,83,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Iran,1,0,1,82,82,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+"Korea, South",1,0,1,81,81,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Panama,1,0,1,80,80,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Qatar,1,0,1,79,79,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Curacao,1,0,1,78,78,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Iraq,1,0,1,77,77,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Netherlands,1,0,1,76,76,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Japan,1,0,1,75,75,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Cote d'Ivoire,1,0,1,74,74,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0
+Czech Republic,1,0,1,73,73,round_of_32,loss,Round of 32,Round of 32,score_only,score_poisson_glm,score_only,full_history_80_20,0

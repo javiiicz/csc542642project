@@ -1,0 +1,63 @@
+model_name,team,final_position,count,prob,score_model_name,winner_model_name,history_scope
+rand_forest,Algeria,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Argentina,Champion,9,0.045,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Argentina,Fourth place,38,0.19,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Argentina,Runner-up,15,0.075,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Argentina,Third place,138,0.69,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Bosnia-Herzegovina,Round of 16,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Brazil,Fourth place,43,0.215,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Brazil,Round of 32,111,0.555,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Brazil,Third place,46,0.23,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Canada,Round of 16,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Colombia,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Cote d'Ivoire,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Croatia,Quarter-final,153,0.765,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Croatia,Runner-up,47,0.235,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Curacao,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Czech Republic,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Egypt,Round of 16,92,0.46,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Egypt,Round of 32,108,0.54,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,England,Round of 16,89,0.445,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,England,Runner-up,111,0.555,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,France,Champion,180,0.9,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,France,Runner-up,20,0.1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Iran,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Iraq,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Japan,Quarter-final,97,0.485,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Japan,Round of 32,103,0.515,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Jordan,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,"Korea, South",Round of 16,102,0.51,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,"Korea, South",Round of 32,98,0.49,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Morocco,Quarter-final,103,0.515,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Morocco,Round of 32,97,0.485,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Netherlands,Fourth place,95,0.475,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Netherlands,Round of 32,89,0.445,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Netherlands,Third place,16,0.08,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,New Zealand,Round of 16,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Norway,Round of 16,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Panama,Quarter-final,43,0.215,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Panama,Round of 16,40,0.2,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Panama,Round of 32,117,0.585,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Paraguay,Round of 16,98,0.49,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Paraguay,Round of 32,102,0.51,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Portugal,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Qatar,Quarter-final,59,0.295,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Qatar,Round of 16,47,0.235,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Qatar,Round of 32,94,0.47,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Scotland,Quarter-final,48,0.24,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Scotland,Round of 16,69,0.345,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Scotland,Round of 32,83,0.415,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,South Africa,Quarter-final,50,0.25,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,South Africa,Round of 16,44,0.22,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,South Africa,Round of 32,106,0.53,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Spain,Champion,11,0.055,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Spain,Fourth place,24,0.12,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Spain,Quarter-final,47,0.235,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Spain,Round of 16,111,0.555,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Spain,Runner-up,7,0.035,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Turkiye,Round of 32,200,1,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,United States,Quarter-final,63,0.315,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,United States,Round of 16,45,0.225,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,United States,Round of 32,92,0.46,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Uruguay,Quarter-final,137,0.685,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Uruguay,Round of 16,63,0.315,score_poisson_glm,rand_forest,full_history_80_20

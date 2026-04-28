@@ -1,0 +1,4 @@
+model_name,score_model_name,winner_model_name,history_scope,hybrid_mode,accuracy,roc_auc,mn_log_loss,split_type,rmse,mae,mean_actual_goals,mean_pred_goals,fallback_lambda,deterministic_champion,deterministic_runner_up,sampled_champion,sampled_champion_prob
+score_only,score_poisson_glm,score_only,full_history_80_20,score_only,NA,NA,NA,latest_season,1.0245733589540873,0.8154421170637506,1.32,1.4148769492053155,1.5401234567901223,France,Croatia,France,0.52
+rand_forest,score_poisson_glm,rand_forest,full_history_80_20,hybrid_score_plus_winner,0.582089552238806,0.5688445317044795,0.9961950058174457,latest_season,1.0245733589540873,0.8154421170637506,1.32,1.4148769492053155,1.5401234567901223,France,Spain,France,0.9
+xgboost,score_poisson_glm,xgboost,full_history_80_20,hybrid_score_plus_winner,0.564179104477612,0.5716441244909832,1.2963901244238774,latest_season,1.0245733589540873,0.8154421170637506,1.32,1.4148769492053155,1.5401234567901223,Argentina,France,Argentina,0.58

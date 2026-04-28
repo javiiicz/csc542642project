@@ -1,0 +1,33 @@
+slot,team_name,team_model,team_code,group,place,slot_kind,first_match
+1A,South Africa,South Africa,RSA,A,1,fixed_group,79
+1B,Canada,Canada,CAN,B,1,fixed_group,85
+1C,Brazil,Brazil,BRA,C,1,fixed_group,76
+1D,Paraguay,Paraguay,PAR,D,1,fixed_group,81
+1E,Cote d'Ivoire,Cote d'Ivoire,CIV,E,1,fixed_group,74
+1F,Japan,Japan,JPN,F,1,fixed_group,75
+1G,Iran,Iran,IRN,G,1,fixed_group,82
+1H,Spain,Spain,ESP,H,1,fixed_group,84
+1I,Iraq,Iraq,IRQ,I,1,fixed_group,77
+1J,Jordan,Jordan,JOR,J,1,fixed_group,86
+1K,Colombia,Colombia,COL,K,1,fixed_group,87
+1L,Panama,Panama,PAN,L,1,fixed_group,80
+2A,Czechia,Czech Republic,CZE,A,2,fixed_group,73
+2B,Bosnia and Herzegovina,Bosnia-Herzegovina,BIH,B,2,fixed_group,73
+2C,Morocco,Morocco,MAR,C,2,fixed_group,75
+2D,United States,United States,USA,D,2,fixed_group,88
+2E,Curacao,Curacao,CUW,E,2,fixed_group,78
+2F,Netherlands,Netherlands,NED,F,2,fixed_group,76
+2G,Egypt,Egypt,EGY,G,2,fixed_group,88
+2H,Uruguay,Uruguay,URU,H,2,fixed_group,86
+2I,Norway,Norway,NOR,I,2,fixed_group,78
+2J,Algeria,Algeria,ALG,J,2,fixed_group,84
+2K,Portugal,Portugal,POR,K,2,fixed_group,83
+2L,England,England,ENG,L,2,fixed_group,83
+3ABCDF,New Zealand,New Zealand,NZL,G,3,third_place_pool,25
+3AEHIJ,Croatia,Croatia,CRO,L,3,third_place_pool,29
+3BEFIJ,Korea Republic,"Korea, South",KOR,A,3,third_place_pool,28
+3CDFGH,Argentina,Argentina,ARG,J,3,third_place_pool,26
+3CEFHI,Qatar,Qatar,QAT,B,3,third_place_pool,27
+3DEIJL,France,France,FRA,I,3,third_place_pool,32
+3EFGIJ,Turkiye,Turkiye,TUR,D,3,third_place_pool,30
+3EHIJK,Scotland,Scotland,SCO,C,3,third_place_pool,31

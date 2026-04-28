@@ -1,0 +1,9 @@
+model_name,team,champion_count,champion_prob,score_model_name,winner_model_name,history_scope
+score_only,France,104,0.52,score_poisson_glm,score_only,full_history_80_20
+score_only,Croatia,47,0.235,score_poisson_glm,score_only,full_history_80_20
+score_only,Brazil,24,0.12,score_poisson_glm,score_only,full_history_80_20
+score_only,England,10,0.05,score_poisson_glm,score_only,full_history_80_20
+score_only,Spain,7,0.035,score_poisson_glm,score_only,full_history_80_20
+score_only,Bosnia-Herzegovina,4,0.02,score_poisson_glm,score_only,full_history_80_20
+score_only,Japan,2,0.01,score_poisson_glm,score_only,full_history_80_20
+score_only,Portugal,2,0.01,score_poisson_glm,score_only,full_history_80_20

@@ -1,0 +1,3 @@
+model_name,team,champion_count,champion_prob,score_model_name,winner_model_name,history_scope
+xgboost,Argentina,116,0.58,score_poisson_glm,xgboost,full_history_80_20
+xgboost,France,84,0.42,score_poisson_glm,xgboost,full_history_80_20

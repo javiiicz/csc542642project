@@ -1,0 +1,2 @@
+model_name,score_model_name,winner_model_name,history_scope,hybrid_mode,accuracy,roc_auc,mn_log_loss,split_type,rmse,mae,mean_actual_goals,mean_pred_goals,fallback_lambda,deterministic_champion,deterministic_runner_up,sampled_champion,sampled_champion_prob
+score_only,score_poisson_glm,score_only,full_history_80_20,score_only,NA,NA,NA,latest_season,1.0245733589540873,0.8154421170637506,1.32,1.4148769492053155,1.5401234567901223,France,Croatia,France,0.52

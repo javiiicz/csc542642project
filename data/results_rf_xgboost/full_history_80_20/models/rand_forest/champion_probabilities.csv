@@ -1,0 +1,4 @@
+model_name,team,champion_count,champion_prob,score_model_name,winner_model_name,history_scope
+rand_forest,France,180,0.9,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Spain,11,0.055,score_poisson_glm,rand_forest,full_history_80_20
+rand_forest,Argentina,9,0.045,score_poisson_glm,rand_forest,full_history_80_20

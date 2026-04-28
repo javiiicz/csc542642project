@@ -1,0 +1,56 @@
+model_name,team,final_position,count,prob,score_model_name,winner_model_name,history_scope
+xgboost,Algeria,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Argentina,Champion,116,0.58,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Argentina,Runner-up,84,0.42,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Bosnia-Herzegovina,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Brazil,Round of 32,110,0.55,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Brazil,Third place,90,0.45,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Canada,Round of 16,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Colombia,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Cote d'Ivoire,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Croatia,Quarter-final,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Curacao,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Czech Republic,Quarter-final,51,0.255,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Czech Republic,Round of 16,149,0.745,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Egypt,Quarter-final,51,0.255,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Egypt,Round of 16,54,0.27,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Egypt,Round of 32,95,0.475,score_poisson_glm,xgboost,full_history_80_20
+xgboost,England,Round of 16,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,France,Champion,84,0.42,score_poisson_glm,xgboost,full_history_80_20
+xgboost,France,Runner-up,116,0.58,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Iran,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Iraq,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Japan,Quarter-final,45,0.225,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Japan,Round of 16,51,0.255,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Japan,Round of 32,104,0.52,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Jordan,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,"Korea, South",Round of 16,102,0.51,score_poisson_glm,xgboost,full_history_80_20
+xgboost,"Korea, South",Round of 32,98,0.49,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Morocco,Quarter-final,104,0.52,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Morocco,Round of 32,96,0.48,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Netherlands,Round of 32,90,0.45,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Netherlands,Third place,110,0.55,score_poisson_glm,xgboost,full_history_80_20
+xgboost,New Zealand,Round of 16,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Norway,Round of 16,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Panama,Quarter-final,71,0.355,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Panama,Round of 16,12,0.06,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Panama,Round of 32,117,0.585,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Paraguay,Round of 16,98,0.49,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Paraguay,Round of 32,102,0.51,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Portugal,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Qatar,Quarter-final,40,0.2,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Qatar,Round of 16,70,0.35,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Qatar,Round of 32,90,0.45,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Scotland,Quarter-final,51,0.255,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Scotland,Round of 16,66,0.33,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Scotland,Round of 32,83,0.415,score_poisson_glm,xgboost,full_history_80_20
+xgboost,South Africa,Quarter-final,38,0.19,score_poisson_glm,xgboost,full_history_80_20
+xgboost,South Africa,Round of 16,52,0.26,score_poisson_glm,xgboost,full_history_80_20
+xgboost,South Africa,Round of 32,110,0.55,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Spain,Fourth place,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Turkiye,Round of 32,200,1,score_poisson_glm,xgboost,full_history_80_20
+xgboost,United States,Quarter-final,48,0.24,score_poisson_glm,xgboost,full_history_80_20
+xgboost,United States,Round of 16,47,0.235,score_poisson_glm,xgboost,full_history_80_20
+xgboost,United States,Round of 32,105,0.525,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Uruguay,Quarter-final,101,0.505,score_poisson_glm,xgboost,full_history_80_20
+xgboost,Uruguay,Round of 16,99,0.495,score_poisson_glm,xgboost,full_history_80_20

@@ -1,0 +1,2 @@
+model_name,split_type,rmse,mae,mean_actual_goals,mean_pred_goals,fallback_lambda
+score_poisson_glm,latest_season,1.0245733589540873,0.8154421170637506,1.32,1.4148769492053155,1.5401234567901223
